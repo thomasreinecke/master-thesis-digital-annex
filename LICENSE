@@ -1,0 +1,18 @@
+Data and documentation
+
+Copyright (c) 2026 Thomas Reinecke
+
+The data files and documentation in this repository, with the exceptions listed below,
+are licensed under the Creative Commons Attribution-NonCommercial 4.0 International
+licence (CC BY-NC 4.0). Commercial use requires the prior written consent of the author.
+
+Full licence text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Not covered by this licence:
+- the scripts in tools/ and the replay script, which are licensed under the MIT licence
+  (see LICENSE-CODE);
+- short quotations from third-party publications that appear in the Condition Findings.
+  They are reproduced for scholarly citation and remain with their authors and publishers;
+- bibliographic details of third-party publications (authors, titles, venues, DOIs).
+
+The repository contains no records of the enterprise case studied in the thesis.

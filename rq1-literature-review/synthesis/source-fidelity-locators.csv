@@ -1,0 +1,1249 @@
+cf_id,corpus_id,span_order,source_section,line_start,line_end,span_status
+CF#1,1296,1,Cross-functional and semi-autonomous structures,639,648,proposed
+CF#2,1296,1,Organizational-culture synthesis,649,730,proposed
+CF#3,1296,1,Digital leadership and CDO synthesis,750,760,proposed
+CF#3,1296,2,CDO appointment discussion,1101,1110,proposed
+CF#4,1296,1,"Inertia, resistance, and participatory mitigation",774,828,proposed
+CF#5,1296,1,Employee roles and skills synthesis,762,772,proposed
+CF#6,1297,1,Capability-cluster definitions,127,135,proposed
+CF#6,1297,2,Empirical sensing-capability findings,915,952,proposed
+CF#7,1297,1,Digital-seizing subcapabilities,130,133,proposed
+CF#7,1297,2,"Strategic agility, prototyping, and portfolio evidence",957,982,proposed
+CF#8,1297,1,Digital-transforming microfoundations,134,136,proposed
+CF#8,1297,2,Transforming-capability evidence,992,1037,proposed
+CF#9,1297,1,Core enablers and barriers,905,919,proposed
+CF#10,1297,1,Organizational barriers in the process model,835,870,proposed
+CF#10,1297,2,"Appendix evidence on planning, hierarchy, and resistance",2290,2320,proposed
+CF#11,1274,1,Boundary-objects theory and EA artifacts,778,905,proposed
+CF#12,1274,1,Actor-network theory and vertical decision propagation,908,1049,proposed
+CF#13,1274,1,Usability theories,1053,1064,proposed
+CF#13,1274,2,Information-processing implications for EA artifacts,1237,1248,proposed
+CF#13,1274,3,Uncertainty principle and planning granularity,1331,1346,proposed
+CF#14,1274,1,"Stakeholder engagement, brokering, and boundary objects",1421,1569,proposed
+CF#14,1274,2,Media richness and EA artifacts,1703,1808,proposed
+CF#15,1274,1,Management-fashion theory and EA frameworks,1983,2075,proposed
+CF#15,1274,2,Implications of management-fashion theory,2163,2188,proposed
+CF#16,1294,1,Four data-quality categories,876,915,proposed
+CF#16,1294,2,Twenty dimensions and category contents,1016,1024,proposed
+CF#17,1262,1,Sensing and organizational scanning,333,450,proposed
+CF#17,1262,2,Scenario planning and attention,750,760,proposed
+CF#18,1262,1,Business-model design,831,851,proposed
+CF#18,1262,2,Business model and seizing,1139,1235,proposed
+CF#18,1262,3,Decision biases,944,970,proposed
+CF#19,1262,1,Biases affecting investment decisions,930,990,proposed
+CF#19,1262,2,Bias-aware business-model choice,1249,1283,proposed
+CF#20,1262,1,Cospecialized assets and boundary choices,1979,2114,proposed
+CF#20,1262,2,Appropriability regime and value capture,2608,2650,proposed
+CF#21,1262,1,Cospecialized assets and boundary choices,1979,2114,proposed
+CF#21,1262,2,Appropriability regime and value capture,2608,2650,proposed
+CF#22,1284,1,Business-transformation-readiness assessment,762,794,proposed
+CF#22,1284,2,Interview findings and assessment support,1091,1163,proposed
+CF#23,1284,1,Business-model analysis and execution design,697,759,proposed
+CF#23,1284,2,Strategy decomposition through the business model,859,924,proposed
+CF#24,1284,1,Business-capability concept,483,503,proposed
+CF#24,1284,2,Capability analysis and implementation planning,924,939,proposed
+CF#25,1284,1,Culture and politics in interview findings,1015,1085,proposed
+CF#25,1284,2,Readiness-assessment soft-factor caveat,1091,1105,proposed
+CF#25,1284,3,Discussion of architecture and soft factors,1200,1236,proposed
+CF#26,1284,1,Interview finding on storyline and urgency,1099,1105,proposed
+CF#27,1265,1,Organizational-alignment definition and mechanism,706,747,proposed
+CF#28,1265,1,Information-availability definition and propositions,754,798,proposed
+CF#29,1265,1,Resource-portfolio optimization mechanism,799,853,proposed
+CF#30,1265,1,Resource complementarity and EA propositions,854,919,proposed
+CF#31,1265,1,Contextual factors and EA value potential,926,962,proposed
+CF#32,1268,1,"Study summary: decisions, archetypes, and goals",17,26,proposed
+CF#32,1268,2,Key IT decisions and archetypes,153,191,proposed
+CF#32,1268,3,Performance-goal-specific governance patterns,633,660,proposed
+CF#33,1268,1,Manager awareness and governance performance,456,466,proposed
+CF#34,1268,1,Eight governance critical success factors,720,810,proposed
+CF#35,1268,1,Federal and duopoly archetypes,276,312,proposed
+CF#35,1268,2,Performance-goal governance discussion,678,700,proposed
+CF#36,1268,1,Governance patterns and State Street case,456,520,proposed
+CF#37,1272,1,Digital agility,620,670,proposed
+CF#38,1272,1,Digital networking capability,670,715,proposed
+CF#39,1272,1,Big-data analytics capability,715,755,proposed
+CF#40,1272,1,Separate units and agile organizational forms,780,835,proposed
+CF#41,1272,1,Digital metrics and goals,980,1040,proposed
+CF#42,1261,1,Four domains and alignment dimensions,330,405,proposed
+CF#43,1261,1,External and internal IT domains,410,475,proposed
+CF#44,1261,1,Four alignment perspectives,500,690,proposed
+CF#45,1261,1,Dynamic alignment management implication,900,970,proposed
+CF#46,1261,1,Logic of cross-domain alignment,470,500,proposed
+CF#46,1261,2,Management implications,900,970,proposed
+CF#47,1266,1,TXT lines 96-114,96,114,proposed
+CF#48,1266,1,TXT lines 193-208,193,208,proposed
+CF#48,1266,2,TXT lines 229-270,229,270,proposed
+CF#48,1266,3,TXT lines 301-327,301,327,proposed
+CF#49,1266,1,TXT lines 344-368,344,368,proposed
+CF#49,1266,2,TXT lines 369-419,369,419,proposed
+CF#49,1266,3,TXT lines 420-425,420,425,proposed
+CF#50,1266,1,TXT lines 441-496,441,496,proposed
+CF#50,1266,2,TXT lines 497-520,497,520,proposed
+CF#51,1266,1,TXT lines 581-611,581,611,proposed
+CF#51,1266,2,TXT lines 612-669,612,669,proposed
+CF#52,1267,1,TXT lines 706-726,706,726,proposed
+CF#52,1267,2,TXT lines 915-919,915,919,proposed
+CF#53,1267,1,TXT lines 837-841,837,841,proposed
+CF#53,1267,2,TXT lines 864-883,864,883,proposed
+CF#54,1267,1,TXT lines 727-734,727,734,proposed
+CF#54,1267,2,TXT lines 915-926,915,926,proposed
+CF#55,1270,1,TXT lines 304-335,304,335,proposed
+CF#55,1270,2,TXT lines 606-623,606,623,proposed
+CF#56,1270,1,TXT lines 470-491,470,491,proposed
+CF#57,1285,1,TXT lines 881-887,881,887,proposed
+CF#57,1285,2,TXT lines 960-973,960,973,proposed
+CF#58,1285,1,TXT lines 909-925,909,925,proposed
+CF#59,1285,1,TXT lines 381-405,381,405,proposed
+CF#59,1285,2,TXT lines 650-671,650,671,proposed
+CF#60,1285,1,TXT lines 678-691,678,691,proposed
+CF#60,1285,2,TXT lines 926-935,926,935,proposed
+CF#61,1263,1,TXT lines 243-284,243,284,proposed
+CF#62,1263,1,TXT lines 285-310,285,310,proposed
+CF#63,1263,1,TXT lines 140-154,140,154,proposed
+CF#63,1263,2,TXT lines 163-175,163,175,proposed
+CF#64,1263,1,TXT lines 213-230,213,230,proposed
+CF#64,1263,2,TXT lines 555-568,555,568,proposed
+CF#65,1263,1,Contextual factors and indirect readiness pathway,318,343,proposed
+CF#66,1264,1,TXT lines 68-79,68,79,proposed
+CF#66,1264,2,TXT lines 106-115,106,115,proposed
+CF#67,1264,1,TXT lines 684-699,684,699,proposed
+CF#68,1264,1,IT governance maturity scale,500,614,proposed
+CF#68,1264,2,Contextual target and gap-closing procedure,662,683,proposed
+CF#69,1264,1,TXT lines 151-174,151,174,proposed
+CF#70,1264,1,TXT lines 175-195,175,195,proposed
+CF#70,1264,2,TXT lines 293-324,293,324,proposed
+CF#71,1271,1,TXT lines 293-301,293,301,proposed
+CF#72,1271,1,TXT lines 308-311,308,311,proposed
+CF#73,1298,1,TXT lines 120-152,120,152,proposed
+CF#73,1298,2,TXT lines 168-206,168,206,proposed
+CF#74,1298,1,TXT lines 37-52,37,52,proposed
+CF#74,1298,2,TXT lines 99-106,99,106,proposed
+CF#75,1298,1,TXT lines 209-234,209,234,proposed
+CF#76,1298,1,TXT lines 235-256,235,256,proposed
+CF#77,1298,1,Top-management support and stakeholder involvement,224,238,proposed
+CF#78,1295,1,TXT lines 12924-12949,12924,12949,proposed
+CF#78,1295,2,TXT lines 12957-12969,12957,12969,proposed
+CF#79,1295,1,TXT lines 1873-1889,1873,1889,proposed
+CF#79,1295,2,TXT lines 1933-2006,1933,2006,proposed
+CF#80,1295,1,TXT lines 7763-7781,7763,7781,proposed
+CF#80,1295,2,TXT lines 7797-7848,7797,7848,proposed
+CF#81,1295,1,Key success factors list,8155,8165,proposed
+CF#81,1295,2,KPI agreement and measurement guidance,8262,8286,proposed
+CF#82,1295,1,TXT lines 13336-13360,13336,13360,proposed
+CF#83,1293,1,TXT lines 6620-6646,6620,6646,proposed
+CF#84,1293,1,TXT lines 894-927,894,927,proposed
+CF#85,1293,1,Empirical predictor statement,995,1008,proposed
+CF#85,1293,2,Governance performance comparison and mechanism,5552,5565,proposed
+CF#86,1293,1,TXT lines 5600-5627,5600,5627,proposed
+CF#86,1293,2,TXT lines 5640-5668,5640,5668,proposed
+CF#87,1293,1,TXT lines 5790-5809,5790,5809,proposed
+CF#87,1293,2,TXT lines 5840-5870,5840,5870,proposed
+CF#88,1292,1,Operating-model rationale and reported outcomes,1160,1200,proposed
+CF#88,1292,2,Two operating-model dimensions,1203,1217,proposed
+CF#88,1292,3,Four operating-model quadrants,1264,1282,proposed
+CF#89,1292,1,TXT lines 2810-2831,2810,2831,proposed
+CF#89,1292,2,TXT lines 2853-2897,2853,2897,proposed
+CF#89,1292,3,TXT lines 6514-6522,6514,6522,proposed
+CF#90,1292,1,TXT lines 6474-6491,6474,6491,proposed
+CF#91,1292,1,TXT lines 6501-6513,6501,6513,proposed
+CF#92,1292,1,TXT lines 6578-6602,6578,6602,proposed
+CF#93,1273,1,TXT lines 1079-1114,1079,1114,proposed
+CF#93,1273,2,TXT lines 1115-1130,1115,1130,proposed
+CF#94,1273,1,TXT lines 1008-1021,1008,1021,proposed
+CF#95,472,1,TXT lines 1158-1189,1158,1189,proposed
+CF#95,472,2,TXT lines 1214-1230,1214,1230,proposed
+CF#96,472,1,"AI alignment dimensions, continuity, and cross-functional ownership",449,488,proposed
+CF#97,472,1,TXT lines 1004-1031,1004,1031,proposed
+CF#98,472,1,TXT lines 1091-1119,1091,1119,proposed
+CF#99,472,1,TXT lines 975-1003,975,1003,proposed
+CF#99,472,2,TXT lines 936-940,936,940,proposed
+CF#100,662,1,TXT lines 1304-1323,1304,1323,proposed
+CF#100,662,2,TXT lines 1333-1339,1333,1339,proposed
+CF#101,662,1,TXT lines 1342-1383,1342,1383,proposed
+CF#101,662,2,TXT lines 1515-1555,1515,1555,proposed
+CF#102,662,1,TXT lines 1465-1480,1465,1480,proposed
+CF#102,662,2,TXT lines 1533-1539,1533,1539,proposed
+CF#103,662,1,TXT lines 1255-1269,1255,1269,proposed
+CF#103,662,2,TXT lines 1283-1288,1283,1288,proposed
+CF#104,662,1,Source-attributed success factors,55,68,proposed
+CF#105,71,1,TXT lines 1122-1129,1122,1129,proposed
+CF#105,71,2,TXT lines 1163-1201,1163,1201,proposed
+CF#105,71,3,TXT lines 1225-1253,1225,1253,proposed
+CF#106,71,1,TXT lines 1163-1187,1163,1187,proposed
+CF#107,71,1,TXT lines 557-585,557,585,proposed
+CF#108,71,1,TXT lines 792-816,792,816,proposed
+CF#108,71,2,TXT lines 1243-1253,1243,1253,proposed
+CF#109,71,1,TXT lines 643-675,643,675,proposed
+CF#109,71,2,TXT lines 1370-1382,1370,1382,proposed
+CF#110,413,1,TXT lines 659-668,659,668,proposed
+CF#111,413,1,TXT lines 889-907,889,907,proposed
+CF#111,413,2,TXT lines 928-946,928,946,proposed
+CF#112,413,1,TXT lines 966-994,966,994,proposed
+CF#113,413,1,TXT lines 527-538,527,538,proposed
+CF#114,413,1,SME barriers and intermediary role,65,86,proposed
+CF#114,413,2,"Intermediary access to knowledge, networks, and resources",201,227,proposed
+CF#114,413,3,Study findings on intermediary capabilities,1019,1037,proposed
+CF#115,7,1,TXT lines 1072-1078,1072,1078,proposed
+CF#115,7,2,TXT lines 1080-1092,1080,1092,proposed
+CF#116,7,1,SME collaboration and ecosystem framing,84,108,proposed
+CF#116,7,2,Review discussion of collaboration mechanisms,590,650,proposed
+CF#117,7,1,TXT lines 1005-1023,1005,1023,proposed
+CF#118,7,1,TXT lines 1024-1036,1024,1036,proposed
+CF#119,7,1,TXT lines 1037-1050,1037,1050,proposed
+CF#120,33,1,TXT lines 1075-1103,1075,1103,proposed
+CF#120,33,2,TXT lines 1107-1115,1107,1115,proposed
+CF#121,33,1,TXT lines 998-1004,998,1004,proposed
+CF#121,33,2,TXT lines 1021-1032,1021,1032,proposed
+CF#122,33,1,Study purpose and three lifecycle phases,41,49,proposed
+CF#122,33,2,Phase-specific readiness framework,111,137,proposed
+CF#122,33,3,Pre-construction technology factors,139,167,proposed
+CF#122,33,4,Facility-management technology factors,294,324,proposed
+CF#122,33,5,Readiness-assessment aim,364,367,proposed
+CF#123,33,1,TXT lines 1064-1069,1064,1069,proposed
+CF#123,33,2,TXT lines 1101-1110,1101,1110,proposed
+CF#124,33,1,TXT lines 1021-1029,1021,1029,proposed
+CF#125,441,1,TXT lines 197-214,197,214,proposed
+CF#125,441,2,TXT lines 267-295,267,295,proposed
+CF#126,441,1,TXT lines 243-254,243,254,proposed
+CF#126,441,2,TXT lines 560-575,560,575,proposed
+CF#127,441,1,TXT lines 684-690,684,690,proposed
+CF#128,441,1,Managed-level process shortfalls,755,761,proposed
+CF#128,441,2,Case maturity profile and action plan,900,915,proposed
+CF#129,6,1,TXT lines 1807-1817,1807,1817,proposed
+CF#129,6,2,TXT lines 1830-1863,1830,1863,proposed
+CF#130,6,1,TXT lines 1878-1890,1878,1890,proposed
+CF#131,6,1,TXT lines 1831-1844,1831,1844,proposed
+CF#131,6,2,TXT lines 1854-1863,1854,1863,proposed
+CF#132,6,1,"Early participation, ownership, and resistance",395,410,proposed
+CF#132,6,2,Routinization restricts later participation,412,430,proposed
+CF#133,227,1,TXT lines 278-300,278,300,proposed
+CF#134,227,1,TXT lines 650-675,650,675,proposed
+CF#135,227,1,TXT lines 1100-1126,1100,1126,proposed
+CF#135,227,2,TXT lines 1138-1142,1138,1142,proposed
+CF#136,227,1,TXT lines 1607-1622,1607,1622,proposed
+CF#137,408,1,TXT lines 1712-1735,1712,1735,proposed
+CF#137,408,2,TXT lines 1876-1893,1876,1893,proposed
+CF#138,408,1,TXT lines 1762-1774,1762,1774,proposed
+CF#138,408,2,TXT line 2085,2085,2085,proposed
+CF#139,408,1,TXT line 1801,1801,1801,proposed
+CF#139,408,2,TXT lines 2035-2037,2035,2037,proposed
+CF#140,408,1,TXT lines 1461-1472,1461,1472,proposed
+CF#140,408,2,TXT line 2204,2204,2204,proposed
+CF#141,408,1,Localized experimentation and learning,2080,2150,proposed
+CF#141,408,2,Multi-phase adaptation discussion,2520,2590,proposed
+CF#142,140,1,TXT lines 69-92,69,92,proposed
+CF#142,140,2,TXT lines 881-892,881,892,proposed
+CF#143,140,1,Staged digital-strategy process,562,580,proposed
+CF#143,140,2,Pilot-before-scale recommendation,691,696,proposed
+CF#144,140,1,TXT lines 706-724,706,724,proposed
+CF#145,140,1,TXT lines 710-724,710,724,proposed
+CF#145,140,2,TXT lines 865-869,865,869,proposed
+CF#146,140,1,TXT lines 755-802,755,802,proposed
+CF#146,140,2,TXT lines 865-892,865,892,proposed
+CF#147,25,1,TXT line 729,729,729,proposed
+CF#147,25,2,TXT lines 823-844,823,844,proposed
+CF#148,25,1,TXT lines 878-887,878,887,proposed
+CF#148,25,2,TXT lines 1056-1060,1056,1060,proposed
+CF#149,324,1,TXT lines 799-804,799,804,proposed
+CF#150,324,1,TXT lines 849-875,849,875,proposed
+CF#151,324,1,From grand planning to experimentalism,1196,1226,proposed
+CF#152,324,1,TXT lines 1285-1313,1285,1313,proposed
+CF#153,324,1,TXT lines 1428-1445,1428,1445,proposed
+CF#154,879,1,TXT lines 1108-1121,1108,1121,proposed
+CF#154,879,2,TXT lines 1133-1155,1133,1155,proposed
+CF#155,879,1,TXT lines 1321-1339,1321,1339,proposed
+CF#155,879,2,TXT lines 1460-1465,1460,1465,proposed
+CF#156,879,1,TXT lines 1474-1485,1474,1485,proposed
+CF#156,879,2,TXT lines 1555-1567,1555,1567,proposed
+CF#157,879,1,TXT lines 1868-1878,1868,1878,proposed
+CF#157,879,2,TXT lines 2037-2051,2037,2051,proposed
+CF#158,879,1,TXT lines 1770-1795,1770,1795,proposed
+CF#158,879,2,TXT lines 1822-1828,1822,1828,proposed
+CF#158,879,3,TXT lines 1879-1887,1879,1887,proposed
+CF#159,1007,1,TXT lines 1022-1037,1022,1037,proposed
+CF#159,1007,2,TXT lines 1343-1355,1343,1355,proposed
+CF#160,1007,1,TXT lines 1505-1512,1505,1512,proposed
+CF#160,1007,2,TXT lines 1800-1812,1800,1812,proposed
+CF#161,1007,1,TXT lines 1800-1806,1800,1806,proposed
+CF#161,1007,2,TXT lines 1853-1874,1853,1874,proposed
+CF#162,1007,1,TXT lines 1292-1300,1292,1300,proposed
+CF#162,1007,2,TXT lines 1343-1363,1343,1363,proposed
+CF#162,1007,3,TXT lines 1521-1529,1521,1529,proposed
+CF#163,1056,1,TXT lines 1104-1118,1104,1118,proposed
+CF#163,1056,2,TXT lines 1119-1132,1119,1132,proposed
+CF#164,1056,1,TXT lines 962-1021,962,1021,proposed
+CF#164,1056,2,TXT lines 1022-1029,1022,1029,proposed
+CF#164,1056,3,TXT lines 1145-1159,1145,1159,proposed
+CF#165,1056,1,TXT lines 1145-1159,1145,1159,proposed
+CF#165,1056,2,TXT lines 1166-1176,1166,1176,proposed
+CF#166,760,1,TXT lines 940-969,940,969,proposed
+CF#166,760,2,TXT lines 1082-1091,1082,1091,proposed
+CF#167,760,1,TXT lines 1060-1080,1060,1080,proposed
+CF#167,760,2,TXT lines 1125-1155,1125,1155,proposed
+CF#168,760,1,TXT lines 1223-1258,1223,1258,proposed
+CF#168,760,2,TXT lines 1316-1351,1316,1351,proposed
+CF#168,760,3,TXT lines 1389-1403,1389,1403,proposed
+CF#169,760,1,TXT lines 1404-1414,1404,1414,proposed
+CF#169,760,2,TXT lines 1419-1452,1419,1452,proposed
+CF#170,760,1,TXT lines 1453-1467,1453,1467,proposed
+CF#170,760,2,TXT lines 1677-1683,1677,1683,proposed
+CF#171,1011,1,TXT lines 739-750,739,750,proposed
+CF#171,1011,2,TXT lines 1599-1606,1599,1606,proposed
+CF#172,1011,1,TXT lines 1613-1618,1613,1618,proposed
+CF#172,1011,2,TXT lines 1628-1635,1628,1635,proposed
+CF#173,1011,1,TXT lines 1059-1073,1059,1073,proposed
+CF#173,1011,2,TXT lines 1086-1102,1086,1102,proposed
+CF#174,1011,1,TXT lines 793-809,793,809,proposed
+CF#175,1011,1,Global data-strategy trade-off,1725,1752,proposed
+CF#175,1011,2,Case transferability and culture caveat,1765,1777,proposed
+CF#176,873,1,TXT lines 857-878,857,878,proposed
+CF#176,873,2,TXT lines 920-946,920,946,proposed
+CF#177,873,1,TXT lines 1192-1199,1192,1199,proposed
+CF#178,936,1,TXT lines 1245-1264,1245,1264,proposed
+CF#178,936,2,TXT lines 1292-1302,1292,1302,proposed
+CF#179,743,1,TXT lines 1075-1087,1075,1087,proposed
+CF#180,743,1,TXT lines 429-441,429,441,proposed
+CF#180,743,2,TXT lines 1096-1105,1096,1105,proposed
+CF#181,954,1,TXT lines 232-263,232,263,proposed
+CF#181,954,2,TXT lines 277-280,277,280,proposed
+CF#182,954,1,Third key finding: multi-stakeholder engagement,1173,1179,proposed
+CF#182,954,2,Final key finding: institutional support,1190,1194,proposed
+CF#183,826,1,TXT lines 217-226,217,226,proposed
+CF#183,826,2,TXT lines 428-442,428,442,proposed
+CF#183,826,3,TXT lines 542-556,542,556,proposed
+CF#184,1193,1,TXT lines 87-95,87,95,proposed
+CF#184,1193,2,TXT lines 148-166,148,166,proposed
+CF#185,1193,1,TXT lines 208-234,208,234,proposed
+CF#185,1193,2,TXT lines 373-414,373,414,proposed
+CF#185,1193,3,TXT lines 504-527,504,527,proposed
+CF#186,1193,1,TXT lines 416-419,416,419,proposed
+CF#186,1193,2,TXT lines 531-534,531,534,proposed
+CF#186,1193,3,TXT lines 87-95,87,95,proposed
+CF#187,1193,1,TXT lines 183-185,183,185,proposed
+CF#187,1193,2,TXT lines 268-270,268,270,proposed
+CF#187,1193,3,TXT lines 433-465,433,465,proposed
+CF#188,1299,1,TXT lines 714-725,714,725,proposed
+CF#188,1299,2,TXT lines 745-746,745,746,proposed
+CF#188,1299,3,TXT lines 909-921,909,921,proposed
+CF#189,1299,1,TXT lines 909-921,909,921,proposed
+CF#189,1299,2,TXT lines 961-963,961,963,proposed
+CF#190,1299,1,TXT lines 1112-1114,1112,1114,proposed
+CF#190,1299,2,TXT lines 1137-1139,1137,1139,proposed
+CF#191,1299,1,TXT lines 1205-1221,1205,1221,proposed
+CF#191,1299,2,TXT lines 1297-1299,1297,1299,proposed
+CF#192,1299,1,TXT lines 383-385,383,385,proposed
+CF#192,1299,2,TXT lines 440-446,440,446,proposed
+CF#192,1299,3,TXT lines 529-531,529,531,proposed
+CF#193,525,1,TXT lines 470-480,470,480,proposed
+CF#193,525,2,TXT lines 801-835,801,835,proposed
+CF#194,525,1,TXT lines 766-773,766,773,proposed
+CF#194,525,2,TXT lines 1263-1302,1263,1302,proposed
+CF#195,525,1,Culture-dimension coverage,684,688,proposed
+CF#195,525,2,Attribute clustering and frequency ranking,850,866,proposed
+CF#195,525,3,Review conclusion on cultural attributes,1333,1354,proposed
+CF#196,525,1,TXT lines 896-904,896,904,proposed
+CF#196,525,2,TXT lines 1280-1289,1280,1289,proposed
+CF#197,570,1,TXT lines 14-16,14,16,proposed
+CF#197,570,2,TXT lines 680-682,680,682,proposed
+CF#198,570,1,Inside-out digital infrastructure sensing,352,372,proposed
+CF#198,570,2,Dynamic-capability routine summary,584,587,proposed
+CF#199,570,1,TXT lines 411-419,411,419,proposed
+CF#199,570,2,TXT lines 479-480,479,480,proposed
+CF#199,570,3,TXT lines 533-534,533,534,proposed
+CF#200,570,1,TXT lines 420-433,420,433,proposed
+CF#200,570,2,TXT lines 446-456,446,456,proposed
+CF#201,602,1,"Strategic intent, realization gap, and Proposition 8",1370,1383,proposed
+CF#202,602,1,TXT lines 1383-1390,1383,1390,proposed
+CF#202,602,2,TXT lines 1417-1439,1417,1439,proposed
+CF#203,602,1,TXT lines 1222-1245,1222,1245,proposed
+CF#203,602,2,TXT lines 1254-1292,1254,1292,proposed
+CF#204,602,1,TXT lines 1293-1303,1293,1303,proposed
+CF#204,602,2,TXT lines 1322-1344,1322,1344,proposed
+CF#205,602,1,TXT lines 881-903,881,903,proposed
+CF#205,602,2,TXT lines 971-983,971,983,proposed
+CF#206,655,1,TXT lines 20-25,20,25,proposed
+CF#206,655,2,TXT lines 119-130,119,130,proposed
+CF#206,655,3,TXT lines 511-516,511,516,proposed
+CF#207,655,1,TXT lines 415-436,415,436,proposed
+CF#207,655,2,TXT lines 465-486,465,486,proposed
+CF#207,655,3,TXT lines 641-648,641,648,proposed
+CF#208,504,1,TXT lines 882-884,882,884,proposed
+CF#209,504,1,Digital-intensity definition and measurement,614,681,proposed
+CF#209,504,2,Negative moderation result,959,965,proposed
+CF#209,504,3,"Interpretation of breadth, control, and maturity",1083,1099,proposed
+CF#210,550,1,TXT lines 254-307,254,307,proposed
+CF#210,550,2,TXT lines 568-570,568,570,proposed
+CF#210,550,3,TXT lines 644-656,644,656,proposed
+CF#211,550,1,TXT lines 292-303,292,303,proposed
+CF#211,550,2,TXT lines 683-688,683,688,proposed
+CF#212,550,1,TXT lines 606-611,606,611,proposed
+CF#212,550,2,TXT lines 683-684,683,684,proposed
+CF#213,550,1,TXT lines 425-451,425,451,proposed
+CF#213,550,2,TXT lines 568-570,568,570,proposed
+CF#214,657,1,TXT lines 1-20,1,20,proposed
+CF#215,657,1,TXT lines 1-20,1,20,proposed
+CF#216,80,1,TISM circular feedback results,356,395,proposed
+CF#216,80,2,DASAT cyclical framework,435,449,proposed
+CF#216,80,3,Continuous improvement as ongoing process,539,548,proposed
+CF#217,80,1,TXT lines 458-479,458,479,proposed
+CF#217,80,2,TXT lines 529-538,529,538,proposed
+CF#218,249,1,TXT lines 538-550,538,550,proposed
+CF#218,249,2,TXT lines 576-578,576,578,proposed
+CF#219,249,1,TXT lines 570-572,570,572,proposed
+CF#219,249,2,TXT lines 596-597,596,597,proposed
+CF#219,249,3,TXT lines 673-679,673,679,proposed
+CF#220,605,1,TXT lines 1-20,1,20,proposed
+CF#221,605,1,Information-culture finding and model inclusion,226,243,proposed
+CF#222,723,1,TXT lines 613-623,613,623,proposed
+CF#222,723,2,TXT lines 677-678,677,678,proposed
+CF#222,723,3,TXT lines 822-824,822,824,proposed
+CF#223,723,1,TXT lines 613-623,613,623,proposed
+CF#223,723,2,TXT lines 822-824,822,824,proposed
+CF#224,13,1,Search results and publication counts,350,380,proposed
+CF#224,13,2,Conclusion: relative representation of readiness constructs,944,953,proposed
+CF#225,13,1,TXT lines 679-681,679,681,proposed
+CF#226,13,1,TXT lines 916-918,916,918,proposed
+CF#226,13,2,TXT lines 986-988,986,988,proposed
+CF#227,616,1,Abstract: people elements and technological investment sequence,13,21,proposed
+CF#227,616,2,Conclusion: people factors beyond infrastructure,1201,1208,proposed
+CF#228,616,1,TXT lines 647-654,647,654,proposed
+CF#228,616,2,TXT lines 671-689,671,689,proposed
+CF#228,616,3,TXT lines 1179-1180,1179,1180,proposed
+CF#229,688,1,Sentiment analysis and interpretation,1098,1163,proposed
+CF#230,688,1,TXT lines 177-179,177,179,proposed
+CF#230,688,2,TXT lines 1047-1049,1047,1049,proposed
+CF#231,694,1,TXT lines 139-148,139,148,proposed
+CF#232,694,1,TXT lines 409-411,409,411,proposed
+CF#232,694,2,TXT lines 430-432,430,432,proposed
+CF#233,4,1,TXT lines 415-418,415,418,proposed
+CF#233,4,2,TXT lines 549-552,549,552,proposed
+CF#234,4,1,TXT lines 415-418,415,418,proposed
+CF#234,4,2,TXT lines 549-552,549,552,proposed
+CF#235,539,1,TXT lines 1-20,527,529,proposed
+CF#236,539,1,TXT lines 1-20,432,450,proposed
+CF#237,678,1,TXT lines 997-1015,997,1015,proposed
+CF#237,678,2,TXT lines 1052-1071,1052,1071,proposed
+CF#237,678,3,TXT lines 1155-1162,1155,1162,proposed
+CF#238,678,1,TXT lines 1035-1039,1035,1039,proposed
+CF#238,678,2,TXT lines 1077-1084,1077,1084,proposed
+CF#238,678,3,TXT lines 1095-1101,1095,1101,proposed
+CF#239,724,1,TXT lines 46-54,46,54,proposed
+CF#239,724,2,TXT lines 902-927,902,927,proposed
+CF#240,724,1,TXT lines 454-465,454,465,proposed
+CF#240,724,2,TXT lines 495-498,495,498,proposed
+CF#241,393,1,TXT lines 24-39,24,39,proposed
+CF#241,393,2,TXT lines 890-892,890,892,proposed
+CF#241,393,3,TXT lines 1260-1272,1260,1272,proposed
+CF#242,393,1,TXT lines 831-884,831,884,proposed
+CF#242,393,2,TXT lines 927-972,927,972,proposed
+CF#243,523,1,Indicators and AHP-DEMATEL method,574,617,proposed
+CF#243,523,2,Top causal factors,707,714,proposed
+CF#243,523,3,Cause-factor interpretation,822,824,proposed
+CF#244,523,1,TXT lines 703-708,697,702,proposed
+CF#245,597,1,Environmental rationale,65,80,proposed
+CF#245,597,2,Model criteria,144,146,proposed
+CF#245,597,3,Final maturity-model dimensions,612,630,proposed
+CF#246,597,1,TXT lines 639-641,639,641,proposed
+CF#246,597,2,TXT lines 374-381,374,381,proposed
+CF#247,632,1,TXT lines 288-290,288,290,proposed
+CF#247,632,2,TXT lines 333-334,333,334,proposed
+CF#248,682,1,TXT lines 31-36,31,36,proposed
+CF#248,682,2,TXT lines 83-96,83,96,proposed
+CF#249,682,1,TXT lines 31-36,31,36,proposed
+CF#249,682,2,TXT lines 83-87,83,87,proposed
+CF#250,684,1,Top criteria and frequency results,366,425,proposed
+CF#250,684,2,Discussion of must-haves and sector variation,449,476,proposed
+CF#251,684,1,TXT lines 382-384,382,384,proposed
+CF#251,684,2,TXT lines 457-459,457,459,proposed
+CF#252,684,1,TXT lines 382-384,382,384,proposed
+CF#252,684,2,TXT lines 401-403,401,403,proposed
+CF#253,66,1,TXT lines 136-154,136,154,proposed
+CF#253,66,2,TXT lines 556-558,556,558,proposed
+CF#254,66,1,TXT lines 45-47,45,47,proposed
+CF#254,66,2,TXT lines 1334-1336,1334,1336,proposed
+CF#255,66,1,Narrative synthesis of expectation-reality gaps,1168,1184,proposed
+CF#255,66,2,"Table 8 quantified, source-attributed gaps",1204,1252,proposed
+CF#256,66,1,TXT lines 1171-1175,1171,1175,proposed
+CF#257,66,1,TXT lines 153-155,153,155,proposed
+CF#258,151,1,TXT lines 722-728,722,728,proposed
+CF#259,151,1,TXT lines 606-611,606,611,proposed
+CF#260,589,1,TXT lines 402-416,402,416,proposed
+CF#261,589,1,TXT lines 583-616,583,616,proposed
+CF#262,615,1,TXT lines 144-159,144,159,proposed
+CF#262,615,2,TXT lines 210-245,210,245,proposed
+CF#263,615,1,TXT lines 359-364,359,364,proposed
+CF#263,615,2,TXT lines 370-374,370,374,proposed
+CF#264,645,1,Digital-divide context,103,125,proposed
+CF#264,645,2,Developing-country maturity-assessment rationale,400,430,proposed
+CF#264,645,3,Digital-divide component in the model,730,755,proposed
+CF#265,645,1,TXT lines 260-265,260,265,proposed
+CF#265,645,2,TXT lines 502-505,502,505,proposed
+CF#266,495,1,Definitions of capability and impact,563,569,proposed
+CF#266,495,2,Balance principle and weakest-dimension action,912,947,proposed
+CF#266,495,3,Matrix use and prioritization rule,1511,1546,proposed
+CF#266,495,4,Five-company model test,1858,1862,proposed
+CF#267,495,1,TXT lines 1161-1178,1161,1178,proposed
+CF#268,495,1,TXT lines 1198-1210,1198,1210,proposed
+CF#269,495,1,TXT lines 1613-1628,1613,1628,proposed
+CF#270,495,1,TXT lines 201-218,201,218,proposed
+CF#270,495,2,TXT lines 1219-1230,1219,1230,proposed
+CF#271,595,1,Independent model design and SPICE basis,267,305,proposed
+CF#271,595,2,Financial-sector case result,372,382,proposed
+CF#271,595,3,Independent use in conclusion,414,422,proposed
+CF#272,595,1,TXT lines 378-385,378,385,proposed
+CF#272,595,2,TXT lines 406-412,406,412,proposed
+CF#273,611,1,TXT lines 203-208,203,208,proposed
+CF#273,611,2,TXT lines 240-244,240,244,proposed
+CF#274,611,1,Results: sensitive-data and privacy context,201,215,proposed
+CF#274,611,2,Low ratings for competitor sharing and data management,273,281,proposed
+CF#275,618,1,TXT lines 894-935,894,935,proposed
+CF#276,618,1,TXT lines 984-1010,984,1010,proposed
+CF#276,618,2,TXT lines 1020-1034,1020,1034,proposed
+CF#277,644,1,DRR construct and H1,324,338,proposed
+CF#277,644,2,PLS-SEM result for H1,650,660,proposed
+CF#278,644,1,TXT lines 652-662,652,662,proposed
+CF#279,644,1,TXT lines 652-662,652,662,proposed
+CF#279,644,2,TXT lines 686-688,686,688,proposed
+CF#280,644,1,TXT lines 712-716,712,716,proposed
+CF#280,644,2,TXT lines 801-808,801,808,proposed
+CF#281,26,1,TXT lines 682-701,682,701,proposed
+CF#282,26,1,TXT lines 833-853,833,853,proposed
+CF#283,26,1,TXT lines 16-27,16,27,proposed
+CF#283,26,2,TXT lines 652-660,652,660,proposed
+CF#284,26,1,TXT lines 720-744,720,744,proposed
+CF#285,176,1,TXT lines 945-956,945,956,proposed
+CF#285,176,2,TXT lines 1040-1047,1040,1047,proposed
+CF#286,176,1,TXT lines 958-985,958,985,proposed
+CF#287,176,1,Local-weight comparison and ranking method,1000,1039,proposed
+CF#287,176,2,Global rankings and authors' interpretation,1078,1130,proposed
+CF#288,176,1,TXT lines 1152-1159,1152,1159,proposed
+CF#288,176,2,TXT lines 1165-1174,1165,1174,proposed
+CF#289,361,1,TXT lines 468-509,468,509,proposed
+CF#290,361,1,Level-two TRL and Acatech thresholds,526,539,proposed
+CF#290,361,2,Restricted movements and incremental progression,620,630,proposed
+CF#290,361,3,Authors' movement recommendation,749,754,proposed
+CF#291,361,1,TXT lines 797-804,797,804,proposed
+CF#292,361,1,TXT lines 907-911,907,911,proposed
+CF#293,361,1,TXT lines 414-428,414,428,proposed
+CF#294,552,1,"Sponsorship chain, trust mechanism, and takeaway",345,386,proposed
+CF#294,552,2,Delta worksheet sponsorship action,619,623,proposed
+CF#295,552,1,TXT lines 87-103,87,103,proposed
+CF#295,552,2,TXT lines 256-263,256,263,proposed
+CF#295,552,3,TXT lines 608-613,608,613,proposed
+CF#296,866,1,TXT lines 497-506,497,506,proposed
+CF#296,866,2,TXT lines 629-669,629,669,proposed
+CF#296,866,3,TXT lines 675-691,675,691,proposed
+CF#297,866,1,TXT lines 519-530,519,530,proposed
+CF#297,866,2,TXT lines 573-581,573,581,proposed
+CF#298,159,1,TXT lines 30-45,30,45,proposed
+CF#298,159,2,TXT lines 150-153,150,153,proposed
+CF#298,159,3,TXT lines 1063-1067,1063,1067,proposed
+CF#299,159,1,TXT lines 947-968,947,968,proposed
+CF#300,577,1,TXT lines 18-24,18,24,proposed
+CF#300,577,2,TXT lines 178-187,178,187,proposed
+CF#301,577,1,TXT lines 301-305,301,305,proposed
+CF#302,577,1,"Digital roles, talent shortage, and acquisition approaches",301,318,proposed
+CF#303,577,1,TXT lines 343-347,343,347,proposed
+CF#304,577,1,TXT lines 292-295,292,295,proposed
+CF#304,577,2,TXT lines 359-365,359,365,proposed
+CF#305,612,1,TXT lines 16-20,16,20,proposed
+CF#305,612,2,TXT lines 495-505,495,505,proposed
+CF#305,612,3,TXT lines 526-544,526,544,proposed
+CF#306,612,1,TXT lines 566-580,566,580,proposed
+CF#307,612,1,TXT lines 693-707,693,707,proposed
+CF#307,612,2,TXT lines 747-752,747,752,proposed
+CF#308,612,1,TXT lines 609-616,609,616,proposed
+CF#308,612,2,TXT lines 831-835,831,835,proposed
+CF#309,167,1,TXT lines 409-442,409,442,proposed
+CF#309,167,2,TXT lines 465-506,465,506,proposed
+CF#309,167,3,TXT lines 520-540,520,540,proposed
+CF#310,167,1,TXT lines 465-506,465,506,proposed
+CF#311,461,1,TXT lines 232-236,232,236,proposed
+CF#311,461,2,TXT lines 581-583,581,583,proposed
+CF#312,461,1,TXT lines 807-825,807,825,proposed
+CF#313,461,1,TXT lines 826-830,826,830,proposed
+CF#314,461,1,TXT lines 854-875,854,875,proposed
+CF#314,461,2,TXT lines 943-959,943,959,proposed
+CF#315,461,1,TXT lines 888-905,888,905,proposed
+CF#316,604,1,TXT lines 377-401,377,401,proposed
+CF#317,604,1,TXT lines 359-376,359,376,proposed
+CF#317,604,2,TXT lines 413-417,413,417,proposed
+CF#318,777,1,TXT lines 760-779,760,779,proposed
+CF#318,777,2,TXT lines 902-913,902,913,proposed
+CF#319,777,1,TXT lines 884-901,884,901,proposed
+CF#319,777,2,TXT lines 1015-1021,1015,1021,proposed
+CF#320,777,1,TXT lines 914-920,914,920,proposed
+CF#320,777,2,TXT lines 1015-1021,1015,1021,proposed
+CF#321,777,1,TXT lines 1015-1021,1015,1021,proposed
+CF#321,777,2,TXT lines 1044-1049,1044,1049,proposed
+CF#322,777,1,TXT lines 1033-1049,1033,1049,proposed
+CF#323,192,1,TXT lines 1038-1054,1038,1054,proposed
+CF#323,192,2,TXT lines 1114-1122,1114,1122,proposed
+CF#324,192,1,TXT lines 38-43,38,43,proposed
+CF#324,192,2,TXT lines 169-171,169,171,proposed
+CF#325,192,1,TXT lines 962-964,962,964,proposed
+CF#325,192,2,TXT lines 1114-1122,1114,1122,proposed
+CF#326,192,1,"Internal testing, confidence, and slower decisions",797,805,proposed
+CF#326,192,2,Resistance as a capability-gap signal,1223,1238,proposed
+CF#327,192,1,TXT lines 1043-1054,1043,1054,proposed
+CF#327,192,2,TXT lines 1114-1122,1114,1122,proposed
+CF#328,482,1,Overall lower-maturity areas,242,246,proposed
+CF#328,482,2,Means and segmented variation,275,291,proposed
+CF#328,482,3,Ecosystem-area interpretation,421,430,proposed
+CF#329,482,1,TXT lines 273-291,273,291,proposed
+CF#330,482,1,TXT lines 339-345,339,345,proposed
+CF#331,482,1,TXT lines 273-280,273,280,proposed
+CF#332,482,1,TXT lines 501-510,501,510,proposed
+CF#333,100,1,TXT lines 463-477,463,477,proposed
+CF#334,100,1,TXT lines 12-20,12,20,proposed
+CF#334,100,2,TXT lines 327-410,327,410,proposed
+CF#335,627,1,TXT lines 169-179,169,179,proposed
+CF#335,627,2,TXT lines 220-234,220,234,proposed
+CF#336,745,1,TXT lines 337-354,337,354,proposed
+CF#336,745,2,TXT lines 545-591,545,591,proposed
+CF#337,745,1,TXT lines 337-354,337,354,proposed
+CF#337,745,2,TXT lines 631-640,631,640,proposed
+CF#338,769,1,TXT lines 108-110,108,110,proposed
+CF#338,769,2,TXT lines 161-171,161,171,proposed
+CF#338,769,3,TXT lines 192-197,192,197,proposed
+CF#339,769,1,Tool-centric versus coherent management logic,61,75,proposed
+CF#339,769,2,Conclusion on maturity and reorganization,362,376,proposed
+CF#340,794,1,TXT lines 364-366,364,366,proposed
+CF#340,794,2,TXT lines 436-437,436,437,proposed
+CF#341,794,1,TXT lines 479-484,479,484,proposed
+CF#341,794,2,TXT lines 495-519,495,519,proposed
+CF#341,794,3,TXT lines 529-555,529,555,proposed
+CF#342,944,1,TXT lines 939-941,939,941,proposed
+CF#343,944,1,TXT lines 1069-1087,1069,1087,proposed
+CF#343,944,2,TXT lines 1157-1159,1157,1159,proposed
+CF#343,944,3,TXT lines 1259-1272,1259,1272,proposed
+CF#344,944,1,TXT lines 1077-1087,1077,1087,proposed
+CF#345,944,1,TXT lines 1103-1105,1103,1105,proposed
+CF#345,944,2,TXT lines 1270-1272,1270,1272,proposed
+CF#346,944,1,TXT lines 1117-1119,1117,1119,proposed
+CF#346,944,2,TXT lines 1216-1219,1216,1219,proposed
+CF#346,944,3,TXT lines 1353-1355,1353,1355,proposed
+CF#347,770,1,TXT lines 231-246,231,246,proposed
+CF#347,770,2,TXT lines 270-273,270,273,proposed
+CF#347,770,3,TXT lines 336-338,336,338,proposed
+CF#347,770,4,TXT lines 454-487,454,487,proposed
+CF#348,770,1,TXT lines 402-410,402,410,proposed
+CF#348,770,2,TXT lines 418-452,418,452,proposed
+CF#349,830,1,"Leadership, knowledge, and communication barriers",666,695,proposed
+CF#349,830,2,EA knowledge and adoption discussion,742,772,proposed
+CF#350,830,1,TXT lines 539-557,539,557,proposed
+CF#350,830,2,TXT lines 575-579,575,579,proposed
+CF#351,869,1,Cross-case attention to EA,940,1020,proposed
+CF#351,869,2,Discussion of agile scaling and EA,1240,1325,proposed
+CF#352,869,1,TXT lines 788-814,788,814,proposed
+CF#352,869,2,TXT lines 928-933,928,933,proposed
+CF#352,869,3,TXT lines 977-999,977,999,proposed
+CF#352,869,4,TXT lines 1020-1025,1020,1025,proposed
+CF#353,883,1,TXT lines 647-679,647,679,proposed
+CF#353,883,2,TXT lines 699-701,699,701,proposed
+CF#354,883,1,TXT lines 505-515,505,515,proposed
+CF#354,883,2,TXT lines 631-633,631,633,proposed
+CF#354,883,3,TXT lines 647-650,647,650,proposed
+CF#355,883,1,TXT lines 631-633,631,633,proposed
+CF#356,883,1,TXT lines 168-172,168,172,proposed
+CF#356,883,2,TXT lines 513-516,513,516,proposed
+CF#356,883,3,TXT lines 577-601,577,601,proposed
+CF#356,883,4,TXT lines 724-726,724,726,proposed
+CF#357,883,1,TXT lines 313-327,313,327,proposed
+CF#357,883,2,TXT lines 647-664,647,664,proposed
+CF#358,988,1,TXT lines 54-62,54,62,proposed
+CF#358,988,2,TXT lines 339-348,339,348,proposed
+CF#358,988,3,TXT lines 363-365,363,365,proposed
+CF#359,771,1,TXT lines 609-621,609,621,proposed
+CF#359,771,2,TXT lines 653-657,653,657,proposed
+CF#360,771,1,TXT lines 747-749,747,749,proposed
+CF#360,771,2,TXT lines 873-888,873,888,proposed
+CF#361,771,1,TXT lines 734-748,734,748,proposed
+CF#361,771,2,TXT lines 795-797,795,797,proposed
+CF#361,771,3,TXT lines 855-857,855,857,proposed
+CF#362,771,1,TXT lines 715-731,715,731,proposed
+CF#362,771,2,TXT lines 734-748,734,748,proposed
+CF#362,771,3,TXT lines 760-762,760,762,proposed
+CF#363,771,1,TXT lines 728-730,728,730,proposed
+CF#363,771,2,TXT lines 747-748,747,748,proposed
+CF#363,771,3,TXT lines 900-901,900,901,proposed
+CF#364,893,1,TXT lines 448-460,448,460,proposed
+CF#364,893,2,TXT lines 672-674,672,674,proposed
+CF#365,893,1,TXT lines 591-592,591,592,proposed
+CF#365,893,2,TXT lines 448-460,448,460,proposed
+CF#366,946,1,TXT lines 120-140,120,140,proposed
+CF#366,946,2,TXT lines 167-173,167,173,proposed
+CF#366,946,3,TXT lines 323-354,323,354,proposed
+CF#367,957,1,TXT lines 182-200,182,200,proposed
+CF#367,957,2,TXT lines 292-337,292,337,proposed
+CF#367,957,3,TXT lines 339-348,339,348,proposed
+CF#368,1113,1,EA criticism and misunderstanding context,60,80,proposed
+CF#368,1113,2,Explanatory-theory classification,355,375,proposed
+CF#368,1113,3,Absence of prescriptive implementation method,437,464,proposed
+CF#369,817,1,TXT lines 143-156,143,156,proposed
+CF#369,817,2,TXT lines 881-897,881,897,proposed
+CF#369,817,3,TXT lines 962-984,962,984,proposed
+CF#370,817,1,TXT lines 1008-1024,1008,1024,proposed
+CF#370,817,2,TXT lines 1079-1089,1079,1089,proposed
+CF#371,961,1,TXT lines 583-595,583,595,proposed
+CF#371,961,2,TXT lines 1048-1055,1048,1055,proposed
+CF#372,961,1,TXT lines 916-918,916,918,proposed
+CF#372,961,2,TXT lines 1048-1055,1048,1055,proposed
+CF#373,961,1,TXT lines 926-928,926,928,proposed
+CF#374,961,1,TXT lines 102-110,102,110,proposed
+CF#374,961,2,TXT lines 224-231,224,231,proposed
+CF#375,1035,1,TXT lines 659-677,659,677,proposed
+CF#375,1035,2,TXT lines 810-816,810,816,proposed
+CF#376,1038,1,TXT lines 40-42,40,42,proposed
+CF#376,1038,2,TXT lines 653-665,653,665,proposed
+CF#376,1038,3,TXT lines 1008-1026,1008,1026,proposed
+CF#377,790,1,TXT lines 15-17,15,17,proposed
+CF#378,917,1,TXT lines 15-31,15,31,proposed
+CF#378,917,2,TXT lines 60-80,60,80,proposed
+CF#379,917,1,TXT lines 60-80,60,80,proposed
+CF#379,917,2,TXT lines 166-168,166,168,proposed
+CF#380,917,1,TXT lines 15-31,15,31,proposed
+CF#380,917,2,TXT lines 60-68,60,68,proposed
+CF#381,917,1,High versus average strategic-direction findings,626,650,proposed
+CF#381,917,2,Strategy communication assessment item,1230,1245,proposed
+CF#382,917,1,TXT lines 20-28,20,28,proposed
+CF#382,917,2,TXT lines 71-80,71,80,proposed
+CF#383,1005,1,TXT lines 505-506,505,506,proposed
+CF#383,1005,2,TXT lines 530-534,530,534,proposed
+CF#383,1005,3,TXT lines 631-633,631,633,proposed
+CF#384,1005,1,TXT lines 521-524,521,524,proposed
+CF#384,1005,2,TXT lines 530-534,530,534,proposed
+CF#384,1005,3,TXT lines 617-623,617,623,proposed
+CF#385,1005,1,TXT lines 221-224,221,224,proposed
+CF#385,1005,2,TXT lines 521-523,521,523,proposed
+CF#385,1005,3,TXT lines 530-533,530,533,proposed
+CF#386,922,1,TXT lines 391-434,391,434,proposed
+CF#386,922,2,TXT lines 478-535,478,535,proposed
+CF#386,922,3,TXT lines 644-649,644,649,proposed
+CF#387,998,1,TXT lines 308-344,308,344,proposed
+CF#387,998,2,TXT lines 646-648,646,648,proposed
+CF#388,998,1,TXT lines 447-475,447,475,proposed
+CF#388,998,2,TXT lines 484-510,484,510,proposed
+CF#389,1001,1,TXT lines 20-22,20,22,proposed
+CF#389,1001,2,TXT lines 547-549,547,549,proposed
+CF#389,1001,3,TXT lines 890-892,890,892,proposed
+CF#390,1001,1,TXT lines 605-635,605,635,proposed
+CF#390,1001,2,TXT lines 806-808,806,808,proposed
+CF#391,1059,1,TXT lines 683-685,683,685,proposed
+CF#391,1059,2,TXT lines 1334-1336,1334,1336,proposed
+CF#392,1059,1,TXT lines 1266-1291,1266,1291,proposed
+CF#392,1059,2,TXT lines 1356-1361,1356,1361,proposed
+CF#393,1059,1,TXT lines 1075-1077,1075,1077,proposed
+CF#393,1059,2,TXT lines 1243-1245,1243,1245,proposed
+CF#394,1059,1,TXT lines 706-727,706,727,proposed
+CF#394,1059,2,TXT lines 765-776,765,776,proposed
+CF#395,1208,1,TXT lines 20-24,20,24,proposed
+CF#395,1208,2,TXT lines 56-64,56,64,proposed
+CF#396,1208,1,TXT lines 20-24,20,24,proposed
+CF#397,853,1,Critical incidents and dynamic resource allocation,276,307,proposed
+CF#397,853,2,Realignment through resource-allocation mechanism,340,348,proposed
+CF#398,853,1,TXT lines 143-166,143,166,proposed
+CF#398,853,2,TXT lines 1005-1009,1005,1009,proposed
+CF#399,926,1,TXT lines 7-19,7,19,proposed
+CF#399,926,2,TXT lines 607-624,607,624,proposed
+CF#400,926,1,Evolving cloudification context,129,132,proposed
+CF#400,926,2,Architecture-competency and adaptation requirement,620,633,proposed
+CF#401,1072,1,TXT lines 151-163,151,163,proposed
+CF#402,1080,1,TXT lines 654-669,654,669,proposed
+CF#402,1080,2,TXT lines 703-715,703,715,proposed
+CF#403,1080,1,Organization-specific factors and strategic alignment,677,706,proposed
+CF#404,822,1,P7 multilevel communication,605,610,proposed
+CF#404,822,2,P11 shared domain knowledge,690,694,proposed
+CF#404,822,3,Absence of all-level communication,742,752,proposed
+CF#405,822,1,TXT lines 121-130,121,130,proposed
+CF#405,822,2,TXT lines 455-466,455,466,proposed
+CF#405,822,3,TXT lines 871-873,871,873,proposed
+CF#406,887,1,TXT lines 304-327,304,327,proposed
+CF#406,887,2,TXT lines 461-478,461,478,proposed
+CF#407,887,1,TXT lines 304-307,304,307,proposed
+CF#407,887,2,TXT lines 461-477,461,477,proposed
+CF#407,887,3,TXT lines 598-600,598,600,proposed
+CF#408,1010,1,TXT lines 24-31,24,31,proposed
+CF#408,1010,2,TXT lines 455-475,455,475,proposed
+CF#408,1010,3,TXT lines 601-628,601,628,proposed
+CF#409,1010,1,TXT lines 179-181,179,181,proposed
+CF#409,1010,2,TXT lines 541-544,541,544,proposed
+CF#409,1010,3,TXT lines 601-610,601,610,proposed
+CF#410,1012,1,TXT lines 30-39,30,39,proposed
+CF#410,1012,2,TXT lines 100-115,100,115,proposed
+CF#411,1108,1,TXT lines 95-103,95,103,proposed
+CF#411,1108,2,TXT lines 401-443,401,443,proposed
+CF#411,1108,3,TXT lines 497-528,497,528,proposed
+CF#412,1108,1,TXT lines 239-249,239,249,proposed
+CF#412,1108,2,TXT lines 289-295,289,295,proposed
+CF#412,1108,3,TXT lines 480-493,480,493,proposed
+CF#413,806,1,TXT lines 593-629,593,629,proposed
+CF#413,806,2,TXT lines 729-744,729,744,proposed
+CF#414,806,1,TXT lines 181-210,181,210,proposed
+CF#414,806,2,TXT lines 217-255,217,255,proposed
+CF#414,806,3,TXT lines 549-569,549,569,proposed
+CF#415,884,1,TXT lines 17-23,17,23,proposed
+CF#415,884,2,TXT lines 58-67,58,67,proposed
+CF#415,884,3,TXT lines 375-377,375,377,proposed
+CF#415,884,4,TXT lines 532-543,532,543,proposed
+CF#416,892,1,TXT lines 208-242,208,242,proposed
+CF#416,892,2,TXT lines 282-336,282,336,proposed
+CF#416,892,3,TXT lines 373-410,373,410,proposed
+CF#417,892,1,TXT lines 346-372,346,372,proposed
+CF#418,900,1,TXT lines 40-50,40,50,proposed
+CF#418,900,2,TXT lines 542-553,542,553,proposed
+CF#418,900,3,TXT lines 660-664,660,664,proposed
+CF#419,1004,1,TXT lines 61-82,61,82,proposed
+CF#419,1004,2,TXT lines 600-635,600,635,proposed
+CF#419,1004,3,TXT lines 643-652,643,652,proposed
+CF#420,1004,1,TXT lines 724-730,724,730,proposed
+CF#420,1004,2,TXT lines 773-784,773,784,proposed
+CF#420,1004,3,TXT lines 813-823,813,823,proposed
+CF#421,1146,1,TXT lines 60-71,60,71,proposed
+CF#421,1146,2,TXT lines 232-244,232,244,proposed
+CF#421,1146,3,TXT lines 333-343,333,343,proposed
+CF#421,1146,4,TXT lines 507-520,507,520,proposed
+CF#422,908,1,TXT lines 345-373,345,373,proposed
+CF#422,908,2,TXT lines 183-186,183,186,proposed
+CF#423,908,1,TXT lines 597-620,597,620,proposed
+CF#423,908,2,TXT lines 621-626,621,626,proposed
+CF#424,1024,1,TXT lines 253-280,253,280,proposed
+CF#424,1024,2,TXT lines 323-345,323,345,proposed
+CF#424,1024,3,TXT lines 348-380,348,380,proposed
+CF#425,1024,1,TXT lines 279-299,279,299,proposed
+CF#425,1024,2,TXT lines 421-449,421,449,proposed
+CF#426,1025,1,TXT lines 205-220,205,220,proposed
+CF#426,1025,2,TXT lines 310-322,310,322,proposed
+CF#426,1025,3,TXT lines 562-588,562,588,proposed
+CF#427,1025,1,TXT lines 660-685,660,685,proposed
+CF#427,1025,2,TXT lines 581-620,581,620,proposed
+CF#428,1055,1,TXT lines 174-178,174,178,proposed
+CF#428,1055,2,TXT lines 1250-1251,1250,1251,proposed
+CF#428,1055,3,TXT lines 1291-1315,1291,1315,proposed
+CF#429,1055,1,TXT lines 1252-1283,1252,1283,proposed
+CF#430,1055,1,TXT lines 1218-1238,1218,1238,proposed
+CF#431,1055,1,TXT lines 1458-1478,1458,1478,proposed
+CF#431,1055,2,TXT lines 190-214,190,214,proposed
+CF#432,1062,1,TXT lines 41-54,41,54,proposed
+CF#432,1062,2,TXT lines 154-192,154,192,proposed
+CF#432,1062,3,TXT lines 319-343,319,343,proposed
+CF#432,1062,4,TXT lines 338-343,338,343,proposed
+CF#433,1062,1,TXT lines 352-380,352,380,proposed
+CF#433,1062,2,TXT lines 393-401,393,401,proposed
+CF#434,757,1,TXT lines 24-28,24,28,proposed
+CF#434,757,2,TXT lines 417-428,417,428,proposed
+CF#434,757,3,TXT lines 432-464,432,464,proposed
+CF#434,757,4,TXT lines 921-936,921,936,proposed
+CF#435,757,1,TXT lines 861-886,861,886,proposed
+CF#435,757,2,TXT lines 921-936,921,936,proposed
+CF#436,849,1,TXT lines 20-31,20,31,proposed
+CF#436,849,2,TXT lines 328-344,328,344,proposed
+CF#436,849,3,TXT lines 449-484,449,484,proposed
+CF#436,849,4,TXT lines 511-529,511,529,proposed
+CF#437,897,1,TXT lines 34-45,34,45,proposed
+CF#437,897,2,TXT lines 318-336,318,336,proposed
+CF#437,897,3,TXT lines 415-440,415,440,proposed
+CF#438,1076,1,TXT lines 469-490,469,490,proposed
+CF#438,1076,2,TXT lines 604-616,604,616,proposed
+CF#438,1076,3,TXT lines 653-661,653,661,proposed
+CF#438,1076,4,TXT lines 715-757,715,757,proposed
+CF#438,1076,5,TXT lines 796-802,796,802,proposed
+CF#439,1076,1,Dependency-data collection and documented-versus-actual divergence,340,349,proposed
+CF#439,1076,2,Actual architecture and labour-intensive extraction,807,829,proposed
+CF#440,1078,1,TXT lines 87-95,87,95,proposed
+CF#440,1078,2,TXT lines 285-296,285,296,proposed
+CF#440,1078,3,TXT lines 342-353,342,353,proposed
+CF#441,1078,1,TXT lines 169-186,169,186,proposed
+CF#441,1078,2,TXT lines 191-223,191,223,proposed
+CF#441,1078,3,TXT lines 414-424,414,424,proposed
+CF#442,765,1,TXT lines 282-286,282,286,proposed
+CF#442,765,2,TXT lines 410-424,410,424,proposed
+CF#442,765,3,TXT lines 709-728,709,728,proposed
+CF#443,765,1,TXT lines 542-560,542,560,proposed
+CF#443,765,2,TXT lines 605-609,605,609,proposed
+CF#443,765,3,TXT lines 615-646,615,646,proposed
+CF#444,765,1,TXT lines 440-468,440,468,proposed
+CF#444,765,2,TXT lines 467-540,467,540,proposed
+CF#445,765,1,Potential pre-decision-making EA value,311,331,proposed
+CF#445,765,2,Potential post-decision-making organizational value,613,618,proposed
+CF#445,765,3,Interdependence of pre- and post-decision phases,716,725,proposed
+CF#446,765,1,TXT lines 297-310,297,310,proposed
+CF#447,781,1,TXT lines 242-257,242,257,proposed
+CF#447,781,2,TXT lines 496-503,496,503,proposed
+CF#447,781,3,TXT lines 613-655,613,655,proposed
+CF#447,781,4,TXT lines 856-888,856,888,proposed
+CF#447,781,5,TXT lines 987-1003,987,1003,proposed
+CF#448,781,1,TXT lines 613-655,613,655,proposed
+CF#448,781,2,TXT lines 702-728,702,728,proposed
+CF#448,781,3,TXT lines 879-888,879,888,proposed
+CF#449,795,1,TXT lines 584-616,584,616,proposed
+CF#450,795,1,TXT lines 584-616,584,616,proposed
+CF#451,951,1,TXT lines 18-21,18,21,proposed
+CF#451,951,2,TXT lines 570-631,570,631,proposed
+CF#451,951,3,TXT lines 700-775,700,775,proposed
+CF#451,951,4,TXT lines 979-1019,979,1019,proposed
+CF#452,763,1,TXT lines 304-319,304,319,proposed
+CF#452,763,2,TXT lines 326-350,326,350,proposed
+CF#452,763,3,TXT lines 359-424,359,424,proposed
+CF#452,763,4,TXT lines 605-616,605,616,proposed
+CF#453,763,1,TXT lines 440-465,440,465,proposed
+CF#453,763,2,TXT lines 560-573,560,573,proposed
+CF#453,763,3,TXT lines 617-622,617,622,proposed
+CF#454,838,1,EA resilience and resilience-by-design framing,341,380,proposed
+CF#454,838,2,EA resilience conceptual model,512,540,proposed
+CF#455,838,1,TXT lines 324-340,324,340,proposed
+CF#456,854,1,TXT lines 16-20,16,20,proposed
+CF#456,854,2,TXT lines 341-356,341,356,proposed
+CF#456,854,3,TXT lines 584-597,584,597,proposed
+CF#456,854,4,TXT lines 696-741,696,741,proposed
+CF#456,854,5,TXT lines 891-898,891,898,proposed
+CF#457,854,1,TXT lines 448-460,448,460,proposed
+CF#457,854,2,TXT lines 492-500,492,500,proposed
+CF#458,889,1,TXT lines 104-112,104,112,proposed
+CF#458,889,2,TXT lines 277-289,277,289,proposed
+CF#458,889,3,TXT lines 322-348,322,348,proposed
+CF#459,889,1,TXT lines 254-261,254,261,proposed
+CF#459,889,2,TXT lines 277-287,277,287,proposed
+CF#460,901,1,TXT lines 245-263,245,263,proposed
+CF#460,901,2,TXT lines 294-313,294,313,proposed
+CF#460,901,3,TXT lines 362-370,362,370,proposed
+CF#460,901,4,TXT lines 518-586,518,586,proposed
+CF#460,901,5,TXT lines 618-624,618,624,proposed
+CF#461,901,1,TXT lines 724-751,724,751,proposed
+CF#461,901,2,TXT lines 790-799,790,799,proposed
+CF#461,901,3,TXT lines 841-846,841,846,proposed
+CF#462,734,1,TXT lines 170-174,170,174,proposed
+CF#462,734,2,TXT lines 304-327,304,327,proposed
+CF#462,734,3,TXT lines 451-469,451,469,proposed
+CF#462,734,4,TXT lines 569-577,569,577,proposed
+CF#463,734,1,TXT lines 121-146,121,146,proposed
+CF#463,734,2,TXT lines 382-420,382,420,proposed
+CF#463,734,3,TXT lines 549-577,549,577,proposed
+CF#464,750,1,TXT lines 599-614,599,614,proposed
+CF#464,750,2,TXT lines 797-821,797,821,proposed
+CF#464,750,3,TXT lines 1125-1182,1125,1182,proposed
+CF#464,750,4,TXT lines 1197-1222,1197,1222,proposed
+CF#465,750,1,TXT lines 325-336,325,336,proposed
+CF#465,750,2,TXT lines 357-375,357,375,proposed
+CF#466,929,1,TXT lines 26-36,26,36,proposed
+CF#466,929,2,TXT lines 153-183,153,183,proposed
+CF#466,929,3,TXT lines 198-202,198,202,proposed
+CF#466,929,4,TXT lines 230-232,230,232,proposed
+CF#467,929,1,TXT lines 135-139,135,139,proposed
+CF#467,929,2,TXT lines 375-391,375,391,proposed
+CF#467,929,3,TXT lines 404-408,404,408,proposed
+CF#468,931,1,TXT lines 53-63,53,63,proposed
+CF#468,931,2,TXT lines 375-386,375,386,proposed
+CF#468,931,3,TXT lines 392-407,392,407,proposed
+CF#468,931,4,TXT lines 505-510,505,510,proposed
+CF#469,931,1,TXT lines 197-233,197,233,proposed
+CF#469,931,2,TXT lines 505-510,505,510,proposed
+CF#470,962,1,TXT lines 18-26,18,26,proposed
+CF#470,962,2,TXT lines 314-320,314,320,proposed
+CF#470,962,3,TXT lines 540-570,540,570,proposed
+CF#470,962,4,TXT lines 697-703,697,703,proposed
+CF#470,962,5,TXT lines 727-762,727,762,proposed
+CF#471,962,1,TXT lines 410-429,410,429,proposed
+CF#471,962,2,TXT lines 532-538,532,538,proposed
+CF#472,1039,1,TXT lines 34-38,34,38,proposed
+CF#472,1039,2,TXT lines 202-204,202,204,proposed
+CF#472,1039,3,TXT lines 252-264,252,264,proposed
+CF#472,1039,4,TXT lines 226-234,226,234,proposed
+CF#472,1039,5,TXT lines 279-282,279,282,proposed
+CF#472,1039,6,TXT lines 356-418,356,418,proposed
+CF#473,1039,1,Company A and Company B illustration,464,509,proposed
+CF#474,738,1,TXT lines 311-340,311,340,proposed
+CF#474,738,2,TXT lines 369-407,369,407,proposed
+CF#474,738,3,TXT lines 422-432,422,432,proposed
+CF#475,738,1,TXT lines 133-138,133,138,proposed
+CF#475,738,2,TXT lines 422-432,422,432,proposed
+CF#476,784,1,TXT lines 90-111,90,111,proposed
+CF#476,784,2,TXT lines 120-143,120,143,proposed
+CF#476,784,3,TXT lines 232-241,232,241,proposed
+CF#476,784,4,TXT lines 253-277,253,277,proposed
+CF#476,784,5,TXT lines 406-427,406,427,proposed
+CF#477,784,1,TXT lines 368-384,368,384,proposed
+CF#477,784,2,TXT lines 406-418,406,418,proposed
+CF#478,810,1,F&WM dynamic-capability framework,223,256,proposed
+CF#478,810,2,Five F&WM steps,262,272,proposed
+CF#478,810,3,Conclusion on five-step decomposition,388,396,proposed
+CF#479,810,1,TXT lines 223-271,223,271,proposed
+CF#479,810,2,TXT lines 276-292,276,292,proposed
+CF#479,810,3,TXT lines 308-339,308,339,proposed
+CF#480,981,1,TXT lines 93-109,93,109,proposed
+CF#480,981,2,TXT lines 174-196,174,196,proposed
+CF#480,981,3,TXT lines 213-223,213,223,proposed
+CF#480,981,4,TXT lines 260-335,260,335,proposed
+CF#481,981,1,TXT lines 93-105,93,105,proposed
+CF#481,981,2,TXT lines 122-136,122,136,proposed
+CF#481,981,3,TXT lines 274-304,274,304,proposed
+CF#482,1182,1,TXT lines 1499-1510,1499,1510,proposed
+CF#482,1182,2,TXT lines 1663-1672,1663,1672,proposed
+CF#482,1182,3,TXT lines 1771-1801,1771,1801,proposed
+CF#482,1182,4,TXT lines 1998-2024,1998,2024,proposed
+CF#483,1182,1,TXT lines 1479-1498,1479,1498,proposed
+CF#483,1182,2,TXT lines 1689-1705,1689,1705,proposed
+CF#483,1182,3,TXT lines 1739-1743,1739,1743,proposed
+CF#483,1182,4,TXT lines 2070-2087,2070,2087,proposed
+CF#484,1182,1,TXT lines 1631-1672,1631,1672,proposed
+CF#484,1182,2,TXT lines 1709-1716,1709,1716,proposed
+CF#484,1182,3,TXT lines 2073-2078,2073,2078,proposed
+CF#485,1182,1,TXT lines 1526-1542,1526,1542,proposed
+CF#485,1182,2,TXT lines 2082-2087,2082,2087,proposed
+CF#486,1182,1,TXT lines 1614-1630,1614,1630,proposed
+CF#486,1182,2,TXT lines 1655-1672,1655,1672,proposed
+CF#486,1182,3,TXT lines 2082-2087,2082,2087,proposed
+CF#487,756,1,TXT lines 440-465,440,465,proposed
+CF#487,756,2,TXT lines 514-523,514,523,proposed
+CF#487,756,3,TXT lines 530-554,530,554,proposed
+CF#488,756,1,Flexibility of technology solutions,720,765,proposed
+CF#489,965,1,TXT lines 23-36,23,36,proposed
+CF#489,965,2,TXT lines 473-477,473,477,proposed
+CF#489,965,3,TXT lines 851-856,851,856,proposed
+CF#490,965,1,TXT lines 374-377,374,377,proposed
+CF#490,965,2,TXT lines 434-437,434,437,proposed
+CF#490,965,3,TXT lines 851-856,851,856,proposed
+CF#490,965,4,TXT lines 889-892,889,892,proposed
+CF#490,965,5,TXT lines 959-964,959,964,proposed
+CF#491,1071,1,TXT lines 18-23,18,23,proposed
+CF#491,1071,2,TXT lines 156-169,156,169,proposed
+CF#491,1071,3,TXT lines 1016-1036,1016,1036,proposed
+CF#491,1071,4,TXT lines 1201-1205,1201,1205,proposed
+CF#491,1071,5,TXT lines 1331-1345,1331,1345,proposed
+CF#492,1071,1,TXT lines 18-23,18,23,proposed
+CF#492,1071,2,TXT lines 567-573,567,573,proposed
+CF#492,1071,3,TXT lines 682-689,682,689,proposed
+CF#492,1071,4,TXT lines 885-888,885,888,proposed
+CF#492,1071,5,TXT lines 1201-1205,1201,1205,proposed
+CF#492,1071,6,TXT lines 1316-1328,1316,1328,proposed
+CF#493,1071,1,TXT lines 371-375,371,375,proposed
+CF#493,1071,2,TXT lines 567-573,567,573,proposed
+CF#493,1071,3,TXT lines 885-928,885,928,proposed
+CF#493,1071,4,TXT lines 1351-1359,1351,1359,proposed
+CF#494,1071,1,Expert evidence: Green AI prerequisite,734,745,proposed
+CF#494,1071,2,EA sustainability paradox,964,976,proposed
+CF#495,811,1,TXT lines 11-23,11,23,proposed
+CF#495,811,2,TXT lines 448-453,448,453,proposed
+CF#495,811,3,TXT lines 585-613,585,613,proposed
+CF#495,811,4,TXT lines 635-656,635,656,proposed
+CF#495,811,5,TXT lines 701-709,701,709,proposed
+CF#496,811,1,TXT lines 264-302,264,302,proposed
+CF#496,811,2,TXT lines 497-541,497,541,proposed
+CF#496,811,3,TXT lines 842-855,842,855,proposed
+CF#496,811,4,TXT lines 875-892,875,892,proposed
+CF#497,877,1,TXT lines 13-31,13,31,proposed
+CF#497,877,2,TXT lines 239-252,239,252,proposed
+CF#497,877,3,TXT lines 759-779,761,779,proposed
+CF#497,877,4,TXT lines 804-840,804,840,proposed
+CF#498,877,1,TXT lines 13-31,13,31,proposed
+CF#498,877,2,TXT lines 281-290,281,290,proposed
+CF#498,877,3,TXT lines 675-686,675,686,proposed
+CF#498,877,4,TXT lines 845-853,845,853,proposed
+CF#499,942,1,TXT lines 30-46,30,46,proposed
+CF#499,942,2,TXT lines 170-179,170,179,proposed
+CF#499,942,3,TXT lines 412-436,412,436,proposed
+CF#499,942,4,TXT lines 522-525,522,525,proposed
+CF#499,942,5,TXT lines 638-650,638,650,proposed
+CF#499,942,6,TXT lines 762-781,762,781,proposed
+CF#500,942,1,TXT lines 1041-1044,1041,1044,proposed
+CF#500,942,2,TXT lines 1224-1233,1224,1233,proposed
+CF#500,942,3,TXT lines 1268-1291,1268,1291,proposed
+CF#500,942,4,TXT lines 1331-1345,1331,1345,proposed
+CF#500,942,5,TXT lines 1368-1375,1368,1375,proposed
+CF#501,740,1,TXT lines 619-626,619,626,proposed
+CF#502,740,1,TXT lines 658-664,658,664,proposed
+CF#502,740,2,TXT lines 699-713,699,713,proposed
+CF#503,768,1,TXT lines 212-228,212,228,proposed
+CF#504,768,1,TXT lines 453-480,453,480,proposed
+CF#504,768,2,TXT lines 488-523,488,523,proposed
+CF#505,791,1,TXT lines 219-246,219,246,proposed
+CF#506,791,1,TXT lines 266-286,266,286,proposed
+CF#506,791,2,TXT lines 701-713,701,713,proposed
+CF#507,805,1,TXT lines 381-400,381,400,proposed
+CF#507,805,2,TXT lines 500-533,500,533,proposed
+CF#508,805,1,TXT lines 567-578,567,578,proposed
+CF#508,805,2,TXT lines 628-636,628,636,proposed
+CF#509,813,1,TXT lines 451-465,451,465,proposed
+CF#509,813,2,TXT lines 565-570,565,570,proposed
+CF#510,813,1,TXT lines 516-522,516,522,proposed
+CF#511,813,1,TXT lines 508-515,508,515,proposed
+CF#511,813,2,TXT lines 540-549,540,549,proposed
+CF#512,813,1,TXT lines 348-356,348,356,proposed
+CF#512,813,2,TXT lines 396-413,396,413,proposed
+CF#512,813,3,TXT lines 439-444,439,444,proposed
+CF#513,813,1,TXT lines 408-413,408,413,proposed
+CF#513,813,2,TXT lines 497-507,497,507,proposed
+CF#513,813,3,TXT lines 571-575,571,575,proposed
+CF#514,741,1,TXT lines 158-176,158,176,proposed
+CF#514,741,2,TXT lines 179-187,179,187,proposed
+CF#515,741,1,TXT lines 91-107,91,107,proposed
+CF#515,741,2,TXT lines 145-156,145,156,proposed
+CF#516,799,1,TXT lines 270-287,270,287,proposed
+CF#517,799,1,TXT lines 288-312,288,312,proposed
+CF#518,1015,1,TXT lines 13-23,13,23,proposed
+CF#518,1015,2,TXT lines 95-107,95,107,proposed
+CF#518,1015,3,TXT lines 156-188,156,188,proposed
+CF#519,1015,1,TXT lines 132-146,132,146,proposed
+CF#519,1015,2,TXT lines 156-170,156,170,proposed
+CF#519,1015,3,TXT lines 538-563,538,563,proposed
+CF#520,1102,1,TXT lines 139-195,139,195,proposed
+CF#520,1102,2,TXT lines 205-231,205,231,proposed
+CF#520,1102,3,TXT lines 659-677,659,677,proposed
+CF#521,1102,1,Table 1 and excluded-element justification,363,370,proposed
+CF#521,1102,2,IT-audience rationales for exclusions,418,462,proposed
+CF#521,1102,3,Intentional exclusion statement,606,608,proposed
+CF#522,1104,1,TXT lines 102-145,102,145,proposed
+CF#522,1104,2,TXT lines 265-270,265,270,proposed
+CF#523,1104,1,TXT lines 132-141,132,141,proposed
+CF#523,1104,2,TXT lines 169-171,169,171,proposed
+CF#524,1143,1,Conceptual distinction and governance scope,25,35,proposed
+CF#524,1143,2,"Transparency, risk mitigation, and monitoring",948,962,proposed
+CF#524,1143,3,Governance allocation after continuation,968,971,proposed
+CF#525,1143,1,TXT lines 759-764,759,764,proposed
+CF#525,1143,2,TXT lines 792-807,792,807,proposed
+CF#525,1143,3,TXT lines 957-970,957,970,proposed
+CF#526,1143,1,TXT lines 534-540,534,540,proposed
+CF#526,1143,2,TXT lines 588-592,588,592,proposed
+CF#527,1143,1,TXT lines 786-796,786,796,proposed
+CF#527,1143,2,TXT lines 957-970,957,970,proposed
+CF#528,1143,1,TXT lines 808-830,808,830,proposed
+CF#529,1119,1,TXT lines 34-40,34,40,proposed
+CF#529,1119,2,TXT lines 880-914,880,914,proposed
+CF#530,1119,1,TXT lines 34-40,34,40,proposed
+CF#530,1119,2,TXT lines 694-746,694,746,proposed
+CF#531,1162,1,TXT lines 39-43,39,43,proposed
+CF#531,1162,2,TXT lines 493-519,493,519,proposed
+CF#531,1162,3,TXT lines 630-646,630,646,proposed
+CF#531,1162,4,TXT lines 917-921,917,921,proposed
+CF#532,1162,1,TXT lines 941-950,941,950,proposed
+CF#533,1212,1,TXT lines 842-852,842,852,proposed
+CF#534,1212,1,TXT lines 999-1029,999,1029,proposed
+CF#534,1212,2,TXT lines 1271-1278,1271,1278,proposed
+CF#535,1178,1,TXT lines 30-42,30,42,proposed
+CF#535,1178,2,TXT lines 836-842,836,842,proposed
+CF#536,1178,1,TXT lines 777-792,777,792,proposed
+CF#536,1178,2,TXT lines 840-842,840,842,proposed
+CF#537,1178,1,TXT lines 550-568,550,568,proposed
+CF#537,1178,2,TXT lines 761-776,761,776,proposed
+CF#538,1178,1,TXT lines 787-792,787,792,proposed
+CF#539,1178,1,TXT lines 484-506,484,506,proposed
+CF#540,1195,1,TXT lines 140-153,140,153,proposed
+CF#540,1195,2,TXT lines 863-924,863,924,proposed
+CF#541,1195,1,TXT lines 925-929,925,929,proposed
+CF#541,1195,2,TXT lines 984-989,984,989,proposed
+CF#542,1249,1,TXT lines 12-20,12,20,proposed
+CF#542,1249,2,TXT lines 397-405,397,405,proposed
+CF#542,1249,3,TXT lines 1423-1427,1423,1427,proposed
+CF#543,1249,1,TXT lines 480-493,480,493,proposed
+CF#543,1249,2,TXT lines 610-635,610,635,proposed
+CF#544,1249,1,TXT lines 1455-1479,1455,1479,proposed
+CF#545,1249,1,Negative aspects of strategic IT-project governance,1463,1477,proposed
+CF#546,1249,1,TXT lines 1667-1680,1667,1680,proposed
+CF#547,1139,1,"Review corpus, model table, and hard-soft coverage",322,371,proposed
+CF#548,1152,1,TXT lines 262-287,262,287,proposed
+CF#548,1152,2,TXT lines 871-895,871,895,proposed
+CF#549,1152,1,TXT lines 217-229,217,229,proposed
+CF#549,1152,2,TXT lines 368-395,368,395,proposed
+CF#550,1211,1,TXT lines 633-656,633,656,proposed
+CF#551,1211,1,TXT lines 657-684,657,684,proposed
+CF#551,1211,2,TXT lines 692-695,692,695,proposed
+CF#552,1211,1,TXT lines 805-824,805,824,proposed
+CF#552,1211,2,TXT lines 835-858,835,858,proposed
+CF#553,1211,1,TXT lines 481-482,481,482,proposed
+CF#553,1211,2,TXT lines 692-717,692,717,proposed
+CF#553,1211,3,TXT lines 845-873,845,873,proposed
+CF#554,1216,1,TXT lines 310-360,310,360,proposed
+CF#554,1216,2,TXT lines 700-750,700,750,proposed
+CF#555,1216,1,System 4 intelligence responsibilities,503,515,proposed
+CF#555,1216,2,Case implementation and dynamic-alignment role,753,779,proposed
+CF#556,1236,1,TXT lines 154-175,154,175,proposed
+CF#557,1236,1,TXT lines 277-296,277,296,proposed
+CF#557,1236,2,TXT lines 381-387,381,387,proposed
+CF#558,1132,1,TXT lines 1019-1037,1019,1037,proposed
+CF#558,1132,2,TXT lines 1234-1238,1234,1238,proposed
+CF#559,1132,1,TXT lines 623-659,623,659,proposed
+CF#559,1132,2,TXT lines 1045-1068,1045,1068,proposed
+CF#560,1132,1,TXT lines 701-725,701,725,proposed
+CF#560,1132,2,TXT lines 1075-1096,1075,1096,proposed
+CF#561,1132,1,TXT lines 767-812,767,812,proposed
+CF#561,1132,2,TXT lines 1247-1250,1247,1250,proposed
+CF#562,1132,1,TXT lines 461-488,461,488,proposed
+CF#563,1217,1,Synergistic-governance model and evidence synthesis,1110,1190,proposed
+CF#563,1217,2,Discussion of governance configurations,1310,1407,proposed
+CF#564,1217,1,TXT lines 180-188,180,188,proposed
+CF#564,1217,2,TXT lines 473-505,473,505,proposed
+CF#565,1217,1,TXT lines 145-150,145,150,proposed
+CF#565,1217,2,TXT lines 421-429,421,429,proposed
+CF#565,1217,3,TXT lines 464-471,464,471,proposed
+CF#566,1217,1,TXT lines 473-505,473,505,proposed
+CF#566,1217,2,TXT lines 677-685,677,685,proposed
+CF#567,1217,1,TXT lines 180-188,180,188,proposed
+CF#568,1218,1,TXT lines 620-680,620,680,proposed
+CF#569,1218,1,TXT lines 705-725,705,725,proposed
+CF#570,1237,1,Study design and three tension types,19,29,proposed
+CF#570,1237,2,Definition of the three tensions,410,485,proposed
+CF#570,1237,3,Paired governance guidelines,780,865,proposed
+CF#571,1237,1,TXT lines 682-711,682,711,proposed
+CF#571,1237,2,TXT lines 1011-1029,1011,1029,proposed
+CF#572,1237,1,TXT lines 523-532,523,532,proposed
+CF#572,1237,2,TXT lines 556-565,556,565,proposed
+CF#573,1237,1,TXT lines 969-996,969,996,proposed
+CF#573,1237,2,TXT lines 1046-1050,1046,1050,proposed
+CF#573,1237,3,TXT lines 1153-1158,1153,1158,proposed
+CF#574,1237,1,TXT lines 1070-1106,1070,1106,proposed
+CF#575,1157,1,TXT lines 17-21,17,21,proposed
+CF#575,1157,2,TXT lines 202-218,202,218,proposed
+CF#575,1157,3,TXT lines 344-362,344,362,proposed
+CF#576,1157,1,TXT lines 429-445,429,445,proposed
+CF#576,1157,2,TXT lines 564-588,564,588,proposed
+CF#577,1165,1,Risk-appetite definition and illustration,509,532,proposed
+CF#577,1165,2,Risk-appetite association with strategic objective,654,660,proposed
+CF#577,1165,3,Different appetite levels in the illustration,676,683,proposed
+CF#578,1165,1,TXT lines 540-661,540,661,proposed
+CF#579,1180,1,TXT lines 23-30,23,30,proposed
+CF#579,1180,2,TXT lines 521-552,521,552,proposed
+CF#579,1180,3,TXT lines 635-665,635,665,proposed
+CF#580,1180,1,TXT lines 102-143,102,143,proposed
+CF#580,1180,2,TXT lines 275-308,275,308,proposed
+CF#581,1239,1,TXT lines 15-19,15,19,proposed
+CF#581,1239,2,TXT lines 469-491,469,491,proposed
+CF#582,1239,1,TXT lines 382-385,382,385,proposed
+CF#582,1239,2,TXT lines 561-566,561,566,proposed
+CF#583,1239,1,TXT lines 602-610,602,610,proposed
+CF#584,1239,1,TXT lines 76-81,76,81,proposed
+CF#584,1239,2,TXT lines 469-491,469,491,proposed
+CF#585,1239,1,TXT lines 795-816,795,816,proposed
+CF#585,1239,2,TXT lines 837-842,837,842,proposed
+CF#586,1243,1,TXT lines 109-117,109,117,proposed
+CF#586,1243,2,TXT lines 146-154,146,154,proposed
+CF#586,1243,3,TXT lines 171-181,171,181,proposed
+CF#587,1243,1,TXT lines 48-55,48,55,proposed
+CF#587,1243,2,TXT lines 86-89,86,89,proposed
+CF#588,1269,1,TXT lines 188-195,184,191,proposed
+CF#588,1269,2,TXT lines 291-295,287,291,proposed
+CF#589,1269,1,TXT lines 374-376,370,372,proposed
+CF#589,1269,2,TXT lines 680-686,676,682,proposed
+CF#589,1269,3,TXT lines 830-844,826,840,proposed
+CF#590,1269,1,TXT lines 602-612,598,608,proposed
+CF#590,1269,2,TXT lines 642-649,638,645,proposed
+CF#590,1269,3,TXT lines 680-686,676,682,proposed
+CF#591,1269,1,TXT lines 940-944,936,940,proposed
+CF#592,1269,1,TXT lines 869-888,865,884,proposed
+CF#592,1269,2,TXT lines 901-920,897,916,proposed
+CF#593,1300,1,TXT lines 196-200,196,200,proposed
+CF#593,1300,2,TXT lines 229-238,229,238,proposed
+CF#593,1300,3,TXT lines 417-438,417,438,proposed
+CF#594,1300,1,Leadership vision and employee buy-in,627,641,proposed
+CF#594,1300,2,Reported rate of shared vision,681,684,proposed
+CF#595,1300,1,TXT lines 923-930,923,930,proposed
+CF#595,1300,2,TXT lines 1004-1007,1004,1007,proposed
+CF#596,1300,1,TXT lines 605-615,605,615,proposed
+CF#597,1300,1,TXT lines 1016-1021,1016,1021,proposed
+CF#597,1300,2,TXT lines 1080-1102,1080,1102,proposed
+CF#598,1184,1,TXT lines 5494-5554,5494,5554,proposed
+CF#598,1184,2,TXT lines 5587-5626,5587,5626,proposed
+CF#598,1184,3,TXT lines 5627-5652,5627,5652,proposed
+CF#599,1184,1,Cited EA success-factor conclusion,5311,5315,proposed
+CF#599,1184,2,Silo and ivory-tower discussion,5693,5733,proposed
+CF#599,1184,3,Collaborative EA working mode,5758,5808,proposed
+CF#599,1184,4,Author's communication and collaboration synthesis,6070,6076,proposed

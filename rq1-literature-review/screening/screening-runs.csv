@@ -1,0 +1,3 @@
+run_id,model_label,model,prompt_version,prompt_hash,batch_size,temperature,max_tokens,records,processed,errors
+1,model_a,google/gemma-4-12b-qat,2.6,a507eed97c4a2279de0348810a71634fec64fe21f49ec6d15f7a3958ffc350de,3,0.0,6144,1295,1295,0
+2,model_b,openai/gpt-oss-20b,2.6,31e0b779fe2090b2812baf8f75225418d26732cc8c5a7536ae2f2757536c113d,3,0.0,512,1295,1295,0
