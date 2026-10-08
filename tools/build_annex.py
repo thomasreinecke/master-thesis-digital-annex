@@ -185,7 +185,7 @@ def build(con: sqlite3.Connection, out: Path) -> dict:
         """
         select cc.id, cc.corpus_id, code.code, code.status, cc.contribution_type,
                cc.readiness_statement, cc.mechanism, cc.operationalization_hint,
-               cc.page_or_section, rev.evidence_role, rev.audit_outcome
+               cc.page_or_section, rev.audit_outcome
         from step9_cf_audit_sample s
         join condition_contributions cc on cc.id = s.cf_id
         left join condition_codes code on code.id = cc.condition_code_id
@@ -202,13 +202,13 @@ def build(con: sqlite3.Connection, out: Path) -> dict:
             texts.append(text)
         findings.append((
             f"CF#{r['id']}", r["corpus_id"], r["code"], "yes" if r["status"] == "confirmed" else "no",
-            r["contribution_type"], *texts, r["page_or_section"], r["evidence_role"], r["audit_outcome"],
+            r["contribution_type"], *texts, r["page_or_section"], r["audit_outcome"],
         ))
     counts["condition_findings"] = write_csv(
         out / "synthesis" / "condition-findings.csv",
         ["cf_id", "corpus_id", "condition_code", "retained_in_framework", "contribution_type",
          "finding_statement", "mechanism", "operationalisation_hint", "page_or_section",
-         "evidence_role", "audit_outcome"],
+         "audit_outcome"],
         findings,
     )
     counts["quotations_shortened"] = shortened

@@ -52,7 +52,7 @@ The complete internal research record is retained by the author and available to
 | [`screening/model-decisions.csv`](rq1-literature-review/screening/model-decisions.csv) | Model-level decision derived from the answers by the deterministic screening rule | 2,590 | Section 3.2, Step 2 |
 | [`screening/author-decisions.csv`](rq1-literature-review/screening/author-decisions.csv) | Author decisions with review channel and date | 303 | Section 3.2, Step 2; Section 4.1 |
 | [`screening/replay_screening_rule.py`](rq1-literature-review/screening/replay_screening_rule.py) | Recomputes every model decision from the stored answers and reports deviations | – | Section 3.5 |
-| [`synthesis/condition-findings.csv`](rq1-literature-review/synthesis/condition-findings.csv) | Condition Findings with statement, mechanism, operationalisation hint, page or section, condition, Evidence Role, and audit outcome | 599 | Section 3.2, Steps 4–5; Sections 4.2–4.3 |
+| [`synthesis/condition-findings.csv`](rq1-literature-review/synthesis/condition-findings.csv) | Condition Findings with statement, mechanism, operationalisation hint, page or section, condition, and audit outcome | 599 | Section 3.2, Steps 4–5; Sections 4.2–4.3 |
 | [`synthesis/source-fidelity-locators.csv`](rq1-literature-review/synthesis/source-fidelity-locators.csv) | Source locators of the audited evidence spans: publication, section, and line range | 1,248 | Section 3.2, Step 5; Section 3.5 |
 | [`synthesis/contributing-publications.csv`](rq1-literature-review/synthesis/contributing-publications.csv) | Bibliographic details of the publications that contribute Condition Findings: authors, year, title, venue, and DOI where available | 209 | Section 4.1; Appendix B |
 
