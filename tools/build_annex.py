@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Build the digital annex of the master thesis from the internal research record.
 
-The annex holds only the two RQ1 records that the printed thesis cannot carry:
-the screening record and the Condition Findings with their source locators.
+The annex holds the records that the printed thesis cannot carry in full: for RQ1 the
+screening record and the Condition Findings with their source locators, and for RQ2 the
+aspect register with the classification record of every condition aspect.
 Everything else the thesis reports in its chapters and appendices.
 
 The script reads the research database read-only and writes only the fields listed
@@ -247,6 +248,50 @@ def build(con: sqlite3.Connection, out: Path) -> dict:
     return counts
 
 
+def build_rq2(source: Path, out: Path) -> dict:
+    """Write the aspect register of RQ2: one row per condition aspect.
+
+    The classification fields describe each aspect independently of the governance
+    application, so they carry no application, table, or case identifier. The design
+    sketches of the register and the free-text notes of the fit records are not exported,
+    because they name internal schema elements.
+    """
+    register = json.loads(
+        (source / "master-thesis-full" / "_app" / "scripts" / "data" / "rq2-aspects.en.json")
+        .read_text(encoding="utf-8"))["aspects"]
+    fit_path = (source / "master-thesis-full" / "output" / "S2-Artifact-Design"
+                / "S2-step5-aspect-fit-export-2026-10-05.csv")
+    with fit_path.open(newline="", encoding="utf-8") as fh:
+        fit = {row["aspect_id"]: row for row in csv.DictReader(fh)}
+
+    def order(aspect_id: str) -> tuple[int, int]:
+        m = re.fullmatch(r"CC(\d+)-A(\d+)", aspect_id)
+        return int(m.group(1)), int(m.group(2))
+
+    rows = []
+    for aspect_id in sorted(register, key=order):
+        r = register[aspect_id]
+        f = fit.get(aspect_id, {})
+        rows.append((
+            aspect_id, aspect_id.split("-")[0], r["label"], r.get("text_anchor", ""),
+            "; ".join(r.get("cf", [])),
+            r.get("use", ""), r.get("information", ""), r.get("route", ""),
+            r.get("or1", ""), r.get("or2", ""), r.get("or3", ""),
+            "yes" if r["verdict"] == "ja" else "no",
+            "yes" if r.get("study_boundary") else "no",
+            f.get("platform_capability", ""), f.get("fit", ""), f.get("coverage", ""),
+            "yes" if f.get("selected") == "1" else ("no" if f else ""),
+        ))
+    return {"aspect_register": write_csv(
+        out / "aspect-register.csv",
+        ["aspect_id", "condition_code", "label", "text_anchor", "condition_findings",
+         "use_or1", "information_or2", "producer_or3", "or1_result", "or2_result", "or3_result",
+         "operationalisable", "study_boundary", "platform_capability", "fit", "baseline_coverage",
+         "selected_for_implementation"],
+        rows,
+    )}
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--source", type=Path, default=ANNEX.parent,
@@ -254,6 +299,7 @@ def main() -> None:
     args = parser.parse_args()
     db = args.source / "master-thesis-full" / "_app" / "db" / "app.sqlite"
     counts = build(connect(db), ANNEX / "rq1-literature-review")
+    counts.update(build_rq2(args.source, ANNEX / "rq2-operationalisation"))
     for name, n in counts.items():
         print(f"{name}: {n}")
 

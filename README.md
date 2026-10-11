@@ -12,10 +12,11 @@ Conditions Operationalised in an AI-Supported Governance Application*
 The thesis answers three research questions in sequence: a systematic literature review that synthesises a framework of transformation-enabling conditions (RQ1), the operationalisation of these conditions in an enterprise governance application (RQ2), and AI-based collection of the facts the implemented functions need (RQ3).
 
 The printed thesis reports every method, result, and register that fits on a page.
-This annex holds only the two RQ1 records that are too large to print:
+This annex holds the records that are too large to print in full:
 
 1. the **screening record**, with the criterion answers and decisions of both screening models for the 1,295 screened records and the author decisions, including the three records that the coverage audit added after screening;
-2. the **Condition Findings**, with the source locators of their audited evidence and the bibliographic details of the 209 contributing publications.
+2. the **Condition Findings**, with the source locators of their audited evidence and the bibliographic details of the 209 contributing publications;
+3. the **aspect register** of RQ2, with the classification record of all 75 condition aspects and the fit of the operationalisable ones.
 
 Everything else stays in the thesis:
 
@@ -25,7 +26,7 @@ Everything else stays in the thesis:
 | Screening prompt | Appendix A-1 |
 | Contributing publications and their characteristics | Appendix B |
 | Conditions, domains, and the framework | Chapter 4, Appendix C |
-| Operationalisability requirements, aspect register, fit and selection | Chapter 5, Appendix D |
+| Operationalisability requirements, classification records, fit and selection | Chapter 5, Appendix D |
 | Fact-collection results | Chapter 6, Appendix E |
 | AI usage and evidence record | Section 3.6, Appendix F |
 
@@ -60,6 +61,16 @@ Finding statements may contain short quotations from the source publication.
 Each finding names its publication by `corpus_id`, which resolves to a full citation in `contributing-publications.csv`, and the source locators name the section and lines of the passage.
 The build shortens marked quotations longer than 25 words. Wording close to the source without quotation marks is not detected automatically.
 
+### [`rq2-operationalisation/`](rq2-operationalisation/)
+
+| File | Content | Records | Thesis reference |
+|---|---|---:|---|
+| [`aspect-register.csv`](rq2-operationalisation/aspect-register.csv) | Classification record of every condition aspect: label, text anchor in its condition, cited Condition Findings, use (OR1), information (OR2), and producer (OR3) with the result of each test, classification, study boundary, and for operationalisable aspects the platform capability, fit, baseline coverage, and selection | 75 | Section 3.3, Steps 4–5; Sections 5.2–5.3; Appendix D-1 |
+
+The classification fields describe each aspect independently of the governance application and carry no case identifier.
+The design sketches and the free-text fit notes of the internal register are not exported, because they name internal schema elements.
+Test results are `pass`, `fail`, or `na` (not testable without specified information).
+
 ### [`tools/`](tools/)
 
 | File | Content |
@@ -71,7 +82,7 @@ The build shortens marked quotations longer than 25 words. Wording close to the 
 
 - Files are UTF-8 encoded CSV with a header row.
 - `corpus_id` links the files with each other and with TECF.
-- Condition Findings are identified as `CF#n` and conditions as `CCnn`, as in the thesis.
+- Condition Findings are identified as `CF#n`, conditions as `CCnn`, and condition aspects as `CCnn-An`, as in the thesis.
 - Dates follow ISO 8601.
 
 ## Licence
