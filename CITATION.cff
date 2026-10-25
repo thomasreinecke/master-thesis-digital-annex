@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these records, please cite the archived release of this digital annex."
+type: dataset
+title: "Digital Annex: Master Thesis on Transformation-Enabling Conditions"
+version: 1.0.0
+authors:
+  - family-names: Reinecke
+    given-names: Thomas
+    affiliation: IU International University of Applied Sciences
+abstract: >-
+  Digital annex of the master thesis "Enterprise Transformation Readiness: A Design
+  Science Study of Transformation-Enabling Conditions Operationalised in an AI-Supported
+  Governance Application" (M.Sc. Artificial Intelligence, 2026). It holds the records
+  that are too large to print: the screening record of the systematic literature review,
+  the Condition Findings with the source locators of their audited evidence and the
+  contributing publications, and the classification record of all condition aspects.
+keywords:
+  - transformation readiness
+  - digital transformation
+  - enterprise architecture
+  - IT governance
+  - design science research
+  - operationalisation
+  - AI-based automation
+license:
+  - CC-BY-NC-4.0
+  - MIT
+repository-code: "https://github.com/thomasreinecke/master-thesis-digital-annex"

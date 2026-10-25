@@ -5,8 +5,6 @@ This repository is the digital annex of the master thesis
 Conditions Operationalised in an AI-Supported Governance Application*
 (Thomas Reinecke, M.Sc. Artificial Intelligence, IU International University of Applied Sciences, 2026).
 
-> **DOI:** to be assigned via Zenodo before submission. Cite the archived release, not the moving branch.
-
 ## Orientation
 
 The thesis answers three research questions in sequence: a systematic literature review that synthesises a framework of transformation-enabling conditions (RQ1), the operationalisation of these conditions in an enterprise governance application (RQ2), and AI-based collection of the facts the implemented functions need (RQ3).
@@ -27,6 +25,7 @@ Everything else stays in the thesis:
 | Contributing publications and their characteristics | Appendix B |
 | Conditions, domains, and the framework | Chapter 4, Appendix C |
 | Operationalisability requirements, classification records, fit and selection | Chapter 5, Appendix D |
+| RQ3 system prompt and capability catalogue | Appendix E-3 |
 | Fact-collection results | Chapter 6, Appendix E |
 | AI usage and evidence record | Section 3.6, Appendix F |
 
@@ -39,7 +38,7 @@ The framework can be browsed in the companion web application **TECF**: <https:/
 - Free-text model responses.
 - Every record of the enterprise case studied for RQ2 and RQ3, including its person-identifying fields.
 
-The complete internal research record is retained by the author and available to the supervisor on request (Appendix F of the thesis).
+The complete internal research record is retained by the author and available to the supervisor on request (Appendix F-2 of the thesis).
 
 ## Table of Contents
 
@@ -65,11 +64,12 @@ The build shortens marked quotations longer than 25 words. Wording close to the 
 
 | File | Content | Records | Thesis reference |
 |---|---|---:|---|
-| [`aspect-register.csv`](rq2-operationalisation/aspect-register.csv) | Classification record of every condition aspect: label, text anchor in its condition, cited Condition Findings, use (OR1), information (OR2), and producer (OR3) with the result of each test, classification, study boundary, and for operationalisable aspects the platform capability, fit, baseline coverage, and selection | 75 | Section 3.3, Steps 4–5; Sections 5.2–5.3; Appendix D-1 |
+| [`aspect-register.csv`](rq2-operationalisation/aspect-register.csv) | Classification record of every condition aspect: label, text anchor in its condition, cited Condition Findings, use (OR1), information (OR2), and producer (OR3) with the result of each test, classification, exclusion by the scope of the study, and for operationalisable aspects the platform capability, fit, baseline coverage, and selection | 75 | Section 3.3, Steps 4–5; Sections 5.2–5.3; Appendix D-1 |
 
 The classification fields describe each aspect independently of the governance application and carry no case identifier.
 The design sketches and the free-text fit notes of the internal register are not exported, because they name internal schema elements.
 Test results are `pass`, `fail`, or `na` (not testable without specified information).
+The column `study_boundary` marks an operationalisable aspect that the scope of the study excludes from implementation, shown as *Yes, excluded* in the column *Op.* of Table D.2 of the thesis.
 
 ### [`tools/`](tools/)
 
@@ -84,6 +84,11 @@ Test results are `pass`, `fail`, or `na` (not testable without specified informa
 - `corpus_id` links the files with each other and with TECF.
 - Condition Findings are identified as `CF#n`, conditions as `CCnn`, and condition aspects as `CCnn-An`, as in the thesis.
 - Dates follow ISO 8601.
+
+## Citation
+
+Citation metadata for this annex are in [`CITATION.cff`](CITATION.cff).
+Cite the archived Zenodo release, not the moving branch.
 
 ## Licence
 
